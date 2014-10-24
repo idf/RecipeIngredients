@@ -107,6 +107,23 @@ TOKENIZATION_REGEX = re.compile(r'([0-9a-zA-Z]+|[^0-9a-zA-Z])')
 
 NEWLINE_TERM_REGEX = re.compile(r'(.*?\n)')
 
+def conll_to_standford(lines):
+    new_lines = []
+    for l in lines:
+        if l:
+            tag = l[0]
+            token = l[3]
+            if tag.startswith("I-") or tag.startswith("B-"):
+                tag = tag[2:]
+
+            new_lines.append([token, tag])
+        else:
+            # new_lines.append(l)
+            # avoid empty line
+            pass
+
+    return new_lines
+
 def text_to_conll(f):
     """Convert plain text into CoNLL format."""
     global options
@@ -142,7 +159,9 @@ def text_to_conll(f):
         lines = relabel(lines, get_annotations(f.name))
 
     lines = [[l[0], str(l[1]), str(l[2]), l[3]] if l else l for l in lines]
+    lines = conll_to_standford(lines)
     return StringIO('\n'.join(('\t'.join(l) for l in lines)))
+
 
 def relabel(lines, annotations):
     global options
