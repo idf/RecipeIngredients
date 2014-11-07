@@ -1,0 +1,98 @@
+T1	Recipe 331 353	Confetti Birthday Cake
+T2	Ingredient 925 936	buttercream
+T3	Ingredient 1054 1059	flour
+T4	Ingredient 1061 1074	baking powder
+T5	Ingredient 1076 1080	salt
+T6	Ingredient 1082 1098	granulated sugar
+T7	Recipe 10671 10693	confetti birthday cake
+T8	Ingredient 1100 1110	egg whites
+T10	Ingredient 7314 7319	sugar
+T11	Amount 7464 7472	a couple
+T12	Unit 7473 7484	tablespoons
+T13	Ingredient 7488 7492	milk
+T14	Ingredient 1112 1127	unsalted butter
+R1	Quantify Arg1:T11 Arg2:T13	
+T16	Ingredient 1175 1185	sour cream
+R2	Measure Arg1:T12 Arg2:T13	
+T15	Ingredient 1204 1219	vanilla extract
+T9	Ingredient 1238 1245	jimmies
+T17	Ingredient 1192 1202	whole milk
+T18	Ingredient 1832 1842	egg whites
+T19	Recipe 11454 11467	confetti cake
+T21	Ingredient 2089 2099	egg whites
+T22	Ingredient 2238 2248	egg whites
+T23	Ingredient 2354 2364	egg whites
+T20	Ingredient 2640 2650	egg whites
+T25	Ingredient 2715 2721	butter
+T26	Ingredient 2775 2780	sugar
+T27	Ingredient 3424 3434	sour cream
+T24	Ingredient 2949 2959	whole eggs
+T28	Ingredient 5032 5042	egg whites
+T29	Ingredient 3826 3831	flour
+T30	Ingredient 3833 3846	baking powder
+T32	Ingredient 3676 3680	milk
+T31	Ingredient 3364 3379	vanilla extract
+T33	Ingredient 3851 3855	salt
+T34	Ingredient 3983 3988	flour
+T35	Ingredient 4100 4105	flour
+T37	Ingredient 4021 4025	milk
+T38	Ingredient 4464 4474	egg whites
+T39	Ingredient 4124 4128	milk
+T40	Ingredient 4209 4216	jimmies
+T36	Ingredient 4233 4240	jimmies
+T41	Ingredient 4269 4286	sprinkle confetti
+T42	Ingredient 5855 5864	egg yolks
+T43	Ingredient 5894 5904	egg whites
+T44	Ingredient 6452 6458	butter
+T45	Ingredient 6282 6288	butter
+T46	Ingredient 6653 6668	vanilla extract
+T47	Amount 6677 6678	a
+T48	Ingredient 6799 6805	butter
+R3	Quantify Arg1:T47 Arg2:T46	
+T49	Unit 6679 6689	tablespoon
+R4	Measure Arg1:T49 Arg2:T46	
+T50	Ingredient 6892 6902	whole milk
+T51	Ingredient 6872 6877	sugar
+T52	Ingredient 7126 7131	sugar
+T53	Ingredient 7213 7217	salt
+T55	Ingredient 7081 7085	salt
+T54	Ingredient 6989 6994	sugar
+T56	Ingredient 7453 7457	milk
+T58	Ingredient 10616 10623	jimmies
+T59	Ingredient 10783 10790	jimmies
+T60	Ingredient 11400 11407	jimmies
+T61	Amount 7441 7442	a
+R5	Quantify Arg1:T61 Arg2:T56	
+T62	Amount 1159 1160	a
+R6	Quantify Arg1:T62 Arg2:T16	
+T67	Amount 3352 3353	a
+T68	Amount 6435 6448	a good amount
+T73	Amount 1233 1237	some
+R7	Quantify Arg1:T73 Arg2:T9	
+T74	Amount 1187 1191	some
+T75	Amount 6852 6856	some
+T76	Amount 6648 6652	some
+R8	Quantify Arg1:T76 Arg2:T46	
+R9	Quantify Arg1:T75 Arg2:T51	
+T77	Amount 6887 6891	some
+R10	Quantify Arg1:T77 Arg2:T50	
+T78	Unit 1168 1171	bit
+R11	Measure Arg1:T78 Arg2:T16	
+R12	Quantify Arg1:T74 Arg2:T17	
+T79	Unit 3354 3360	splash
+R13	Quantify Arg1:T67 Arg2:T31	
+R14	Measure Arg1:T79 Arg2:T31	
+T80	Amount 3972 3976	half
+R15	Quantify Arg1:T80 Arg2:T34	
+T81	Amount 3997 4001	half
+R16	Quantify Arg1:T81 Arg2:T34	
+T57	Amount 7064 7065	a
+T65	Unit 7072 7077	pinch
+R17	Quantify Arg1:T57 Arg2:T55	
+R18	Measure Arg1:T65 Arg2:T55	
+T66	Amount 7206 7212	little
+R19	Quantify Arg1:T66 Arg2:T53	
+T82	Unit 7443 7449	splash
+R20	Measure Arg1:T82 Arg2:T56	
+T63	Amount 3663 3669	little
+R21	Quantify Arg1:T63 Arg2:T32	

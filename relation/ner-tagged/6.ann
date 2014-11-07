@@ -1,0 +1,130 @@
+T1	Recipe 233 250	Chinese egg rolls
+T2	Recipe 293 319	Chinese-American egg rolls
+T3	Recipe 374 394	Chinese spring rolls
+T4	Recipe 499 508	egg rolls
+T5	Ingredient 639 642	ham
+T6	Recipe 810 819	egg rolls
+T7	Ingredient 951 956	onion
+T8	Ingredient 940 946	celery
+T9	Ingredient 1033 1044	ground pork
+T10	Amount 1015 1021	a half
+T11	Ingredient 1061 1074	ground turkey
+T12	Unit 1024 1029	pound
+T13	Ingredient 1223 1234	brown sugar
+T14	Ingredient 1241 1252	corn starch
+T15	Amount 1236 1240	some
+T16	Amount 1218 1222	some
+T17	Ingredient 2946 2953	cabbage
+R1	Quantify Arg1:T10 Arg2:T9	
+R2	Measure Arg1:T12 Arg2:T9	
+T18	Ingredient 1270 1276	garlic
+R3	Quantify Arg1:T16 Arg2:T13	
+T19	Ingredient 1281 1287	ginger
+R4	Quantify Arg1:T15 Arg2:T14	
+T20	Amount 1258 1262	some
+R5	Quantify Arg1:T20 Arg2:T18	
+R6	Quantify Arg1:T20 Arg2:T19	
+T21	Ingredient 1309 1320	corn starch
+T22	Ingredient 1324 1335	ground meat
+T24	Ingredient 1396 1400	meat
+T25	Ingredient 1594 1603	soy sauce
+T26	Unit 1580 1590	tablespoon
+T27	Ingredient 1533 1544	ground meat
+T28	Ingredient 1679 1691	black pepper
+T29	Amount 1578 1579	a
+T30	Ingredient 1695 1705	red pepper
+R7	Quantify Arg1:T29 Arg2:T25	
+R8	Measure Arg1:T26 Arg2:T25	
+T31	Amount 1616 1620	some
+T32	Amount 1747 1748	a
+T33	Ingredient 1621 1627	pepper
+T34	Ingredient 1763 1767	salt
+R9	Quantify Arg1:T31 Arg2:T33	
+T35	Ingredient 1649 1661	white pepper
+R11	Quantify Arg1:T32 Arg2:T34	
+T38	Ingredient 3065 3068	oil
+T39	Ingredient 3088 3095	cabbage
+T40	Amount 1794 1795	a
+T37	Ingredient 1810 1814	salt
+R10	Quantify Arg1:T40 Arg2:T37	
+T41	Ingredient 1968 1972	meat
+T43	Ingredient 1824 1834	vegetables
+T42	Ingredient 2067 2071	meat
+T45	Recipe 2263 2272	egg rolls
+T46	Ingredient 2317 2322	water
+T44	Ingredient 3121 3133	Napa cabbage
+T48	Recipe 2423 2432	egg rolls
+T49	Ingredient 2600 2604	meat
+T47	Recipe 2679 2688	egg rolls
+T50	Recipe 3277 3285	egg roll
+T51	Ingredient 3352 3364	Napa cabbage
+T52	Ingredient 3383 3395	Napa cabbage
+T53	Amount 4030 4031	A
+T54	Unit 4032 4035	can
+T55	Ingredient 4039 4054	water chestnuts
+R13	Quantify Arg1:T53 Arg2:T55	
+R14	Measure Arg1:T54 Arg2:T55	
+T56	Ingredient 4153 4177	dried Shiitake mushrooms
+T57	Ingredient 857 860	oil
+T58	Amount 841 842	a
+T59	Ingredient 4236 4254	Wood ear mushrooms
+T60	Unit 4528 4538	tablespoon
+T61	Amount 4526 4527	a
+T62	Recipe 8422 8431	egg rolls
+T63	Ingredient 2847 2850	oil
+T64	Ingredient 4551 4568	all purpose flour
+T65	Recipe 9635 9643	egg roll
+R15	Quantify Arg1:T61 Arg2:T64	
+R16	Measure Arg1:T60 Arg2:T64	
+T66	Ingredient 3211 3218	cabbage
+T67	Recipe 8139 8148	egg rolls
+T68	Ingredient 8120 8123	oil
+T69	Amount 3962 3966	some
+T70	Ingredient 3440 3452	bean sprouts
+T71	Ingredient 3523 3530	cabbage
+T72	Recipe 9206 9214	egg roll
+T73	Recipe 9155 9163	egg roll
+T74	Ingredient 8605 8611	powder
+T75	Ingredient 8617 8622	water
+T76	Ingredient 4129 4138	mushrooms
+T77	Amount 4124 4128	some
+T78	Ingredient 3597 3604	cabbage
+T80	Recipe 4746 4755	egg rolls
+R17	Quantify Arg1:T77 Arg2:T76	
+T81	Ingredient 4208 4213	water
+T82	Ingredient 4464 4473	mushrooms
+T83	Ingredient 8743 8760	sweet chili sauce
+T84	Ingredient 5153 5170	egg roll wrappers
+T91	Ingredient 6207 6212	water
+T79	Ingredient 6197 6202	flour
+T92	Ingredient 5535 5552	egg roll wrappers
+T93	Ingredient 6257 6262	water
+T94	Recipe 7313 7322	egg rolls
+T95	Ingredient 7457 7464	carrots
+T97	Ingredient 7593 7596	oil
+T98	Ingredient 7389 7395	shrimp
+T99	Ingredient 7615 7625	peanut oil
+T100	Ingredient 6836 6839	oil
+T101	Ingredient 7796 7799	oil
+T102	Recipe 7846 7855	egg rolls
+T103	Recipe 8060 8069	egg rolls
+T104	Recipe 8322 8331	Egg rolls
+T105	Recipe 8370 8378	egg roll
+T106	Ingredient 8494 8508	mustard powder
+T107	Amount 8476 8480	some
+R18	Quantify Arg1:T107 Arg2:T106	
+T108	Recipe 8786 8794	egg roll
+T109	Ingredient 9082 9089	mustard
+T110	Ingredient 3967 3982	water chestnuts
+R19	Quantify Arg1:T69 Arg2:T110	
+T111	Recipe 4330 4339	egg rolls
+T113	Unit 850 853	bit
+R20	Quantify Arg1:T58 Arg2:T57	
+R21	Measure Arg1:T113 Arg2:T57	
+T114	Amount 903 907	some
+R22	Quantify Arg1:T114 Arg2:T8	
+R23	Quantify Arg1:T114 Arg2:T7	
+T23	Unit 1756 1759	bit
+R24	Measure Arg1:T23 Arg2:T34	
+T115	Unit 1803 1806	bit
+R25	Measure Arg1:T115 Arg2:T37	

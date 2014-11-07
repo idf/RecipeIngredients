@@ -1,0 +1,71 @@
+T1	Recipe 251 271	Soufflé à la vanille
+T2	Recipe 274 289	vanilla Soufflé
+T3	Recipe 590 597	soufflé
+T4	Amount 634 635	1
+T5	Unit 636 646	tablespoon
+T6	Ingredient 650 665	unsalted butter
+R1	Measure Arg1:T5 Arg2:T6	
+R2	Quantify Arg1:T4 Arg2:T6	
+T7	Amount 667 669	14
+T8	Unit 669 670	g
+R3	Quantify Arg1:T7 Arg2:T6	
+R4	Measure Arg1:T8 Arg2:T6	
+T9	Amount 673 674	1
+T10	Unit 675 685	tablespoon
+T11	Ingredient 689 706	all-purpose flour
+R5	Measure Arg1:T10 Arg2:T11	
+R6	Quantify Arg1:T9 Arg2:T11	
+T12	Amount 709 711	10
+T13	Unit 711 712	g
+R7	Quantify Arg1:T12 Arg2:T11	
+R8	Measure Arg1:T13 Arg2:T11	
+T14	Amount 715 719	1 /2
+T15	Unit 720 723	cup
+T16	Ingredient 727 731	milk
+R9	Measure Arg1:T15 Arg2:T16	
+R10	Quantify Arg1:T14 Arg2:T16	
+T17	Amount 733 736	120
+T18	Unit 737 739	ml
+R11	Quantify Arg1:T17 Arg2:T16	
+R12	Measure Arg1:T18 Arg2:T16	
+T19	Amount 742 745	1/2
+T20	Unit 746 754	teaspoon
+T21	Ingredient 758 778	pure vanilla extract
+R13	Measure Arg1:T20 Arg2:T21	
+R14	Quantify Arg1:T19 Arg2:T21	
+T22	Amount 780 781	2
+T23	Unit 782 793	tablespoons
+T24	Ingredient 797 809	caster sugar
+R15	Measure Arg1:T23 Arg2:T24	
+R16	Quantify Arg1:T22 Arg2:T24	
+T25	Amount 811 813	30
+R17	Quantify Arg1:T25 Arg2:T24	
+T26	Unit 813 814	g
+R18	Measure Arg1:T26 Arg2:T24	
+T27	Amount 817 818	2
+T28	Ingredient 819 823	eggs
+R19	Quantify Arg1:T27 Arg2:T28	
+T29	Amount 829 830	a
+T30	Unit 831 836	pinch
+T31	Ingredient 840 844	salt
+R20	Measure Arg1:T30 Arg2:T31	
+R21	Quantify Arg1:T29 Arg2:T31	
+T32	Ingredient 861 867	butter
+T33	Recipe 961 968	soufflé
+T34	Ingredient 999 1011	caster sugar
+T35	Ingredient 1156 1161	flour
+T36	Ingredient 1243 1247	milk
+T37	Ingredient 1291 1295	milk
+T39	Ingredient 1497 1501	salt
+T40	Ingredient 1506 1521	vanilla extract
+T41	Ingredient 1563 1572	egg white
+T42	Ingredient 1577 1585	egg yolk
+T43	Ingredient 1606 1615	egg yolks
+T38	Ingredient 1801 1811	egg whites
+T44	Recipe 2348 2355	soufflé
+T45	Ingredient 2505 2525	confectioners' sugar
+T46	Recipe 2642 2656	French soufflé
+T47	Ingredient 1105 1111	butter
+T48	Recipe 2530 2537	soufflé
+T49	Recipe 294 301	Soufflé
+T50	Ingredient 1933 1938	sugar

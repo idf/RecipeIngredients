@@ -1,0 +1,61 @@
+T1	Recipe 297 327	lettuce-wrapped turkey muffins
+T2	Ingredient 831 844	ground turkey
+T3	Ingredient 1225 1232	spinach
+T4	Amount 1220 1224	some
+R1	Quantify Arg1:T4 Arg2:T3	
+T5	Ingredient 1239 1250	bell pepper
+T6	Amount 1234 1238	some
+R2	Quantify Arg1:T6 Arg2:T5	
+T7	Ingredient 1260 1266	onions
+T8	Amount 1255 1259	some
+R3	Quantify Arg1:T8 Arg2:T7	
+T9	Ingredient 1341 1346	basil
+T10	Ingredient 1413 1421	cilantro
+T11	Ingredient 1488 1501	ground turkey
+T12	Ingredient 1527 1536	egg white
+T13	Amount 1523 1526	one
+R4	Quantify Arg1:T13 Arg2:T12	
+T14	Ingredient 1583 1604	Bragg's liquid aminos
+T15	Ingredient 1694 1700	garlic
+T16	Ingredient 1702 1708	ginger
+T17	Ingredient 1734 1742	sea salt
+T18	Ingredient 1755 1761	pepper
+T19	Ingredient 1792 1805	cooking spray
+T20	Ingredient 1839 1861	romaine lettuce leaves
+T21	Ingredient 1985 1991	turkey
+T22	Ingredient 2348 2359	green onion
+T23	Ingredient 2439 2451	chili flakes
+T24	Ingredient 2622 2632	brown rice
+T25	Ingredient 2720 2742	romaine lettuce leaves
+T26	Ingredient 2803 2810	mustard
+T27	Ingredient 2814 2826	Walden Farms
+T28	Ingredient 2906 2915	egg white
+T29	Amount 2902 2905	one
+R5	Quantify Arg1:T29 Arg2:T28	
+T30	Ingredient 2963 2975	quinoa flour
+T31	Ingredient 2979 2988	out flour
+T32	Ingredient 3113 3122	egg white
+T33	Ingredient 3124 3130	turkey
+T34	Unit 3279 3287	teaspoon
+T35	Amount 3277 3278	1
+T36	Ingredient 3383 3396	liquid aminos
+T37	Amount 3429 3430	1
+T38	Unit 3431 3439	teaspoon
+R6	Measure Arg1:T38 Arg2:T36	
+R7	Quantify Arg1:T37 Arg2:T36	
+T39	Amount 3410 3411	1
+R8	Quantify Arg1:T39 Arg2:T36	
+T40	Ingredient 3974 3993	butter leaf lettuce
+T41	Ingredient 5543 5565	romaine lettuce hearts
+T42	Ingredient 5710 5723	spicy mustard
+T43	Ingredient 5793 5800	avocado
+T44	Ingredient 5965 5972	avocado
+T45	Ingredient 6030 6043	spicy mustard
+T46	Ingredient 6048 6055	avocado
+T47	Ingredient 6100 6123	Walden's barbecue sauce
+T48	Ingredient 6133 6150	low-sugar ketchup
+T49	Amount 4637 4643	3 to 4
+T50	Unit 4644 4650	ounces
+T51	Ingredient 4654 4661	protein
+R9	Measure Arg1:T50 Arg2:T51	
+R10	Quantify Arg1:T49 Arg2:T51	

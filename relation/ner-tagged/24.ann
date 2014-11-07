@@ -1,0 +1,66 @@
+T1	Ingredient 1464 1475	bread flour
+T2	Ingredient 1719 1728	dry yeast
+T3	Ingredient 1811 1827	active dry yeast
+T4	Ingredient 1841 1858	instant dry yeast
+T5	Ingredient 2510 2515	yeast
+T6	Ingredient 2554 2559	flour
+T7	Ingredient 2656 2660	Salt
+T8	Ingredient 2665 2670	sugar
+T9	Ingredient 3790 3795	flour
+T10	Amount 3837 3845	a couple
+T11	Unit 3852 3861	teaspoons
+R1	Measure Arg1:T11 Arg2:T9	
+R2	Quantify Arg1:T10 Arg2:T9	
+T12	Ingredient 3969 3974	flour
+T13	Ingredient 4112 4117	flour
+T14	Recipe 4197 4203	pizzas
+T15	Ingredient 5638 5641	oil
+T16	Recipe 7883 7888	pizza
+T17	Ingredient 8827 8832	flour
+T18	Ingredient 8964 8969	flour
+T20	Ingredient 9649 9656	cheeses
+T19	Ingredient 11802 11827	natural casing pepperonis
+T21	Ingredient 12840 12845	flour
+T22	Ingredient 13784 13799	mashed potatoes
+T23	Ingredient 14504 14510	cheese
+T24	Ingredient 14516 14525	pepperoni
+T25	Ingredient 14686 14690	Ragu
+T26	Recipe 15072 15077	pizza
+T27	Recipe 356 370	homemade pizza
+T28	Recipe 696 701	pizza
+T29	Recipe 2028 2042	homemade pizza
+T30	Ingredient 2797 2800	oil
+T31	Amount 3964 3968	some
+R3	Quantify Arg1:T31 Arg2:T12	
+T32	Amount 5629 5637	a little
+R4	Quantify Arg1:T32 Arg2:T15	
+T33	Ingredient 5592 5595	oil
+T34	Amount 5583 5591	a little
+R5	Quantify Arg1:T34 Arg2:T33	
+T35	Amount 8955 8963	a little
+R6	Quantify Arg1:T35 Arg2:T18	
+T36	Amount 8818 8826	a little
+R7	Quantify Arg1:T36 Arg2:T17	
+T37	Amount 9634 9638	some
+T38	Ingredient 9639 9644	sauce
+R8	Quantify Arg1:T37 Arg2:T38	
+R9	Quantify Arg1:T37 Arg2:T20	
+T39	Ingredient 1569 1586	all-purpose flour
+T40	Ingredient 1607 1625	all- purpose flour
+T41	Amount 1714 1718	some
+R10	Quantify Arg1:T41 Arg2:T2	
+T42	Ingredient 4046 4051	flour
+T43	Ingredient 10930 10951	whole milk mozzarella
+T44	Amount 10928 10929	a
+R11	Quantify Arg1:T44 Arg2:T43	
+T45	Ingredient 11680 11683	moz
+T46	Ingredient 11700 11705	pepps
+T47	Unit 12833 12836	bit
+T48	Amount 12824 12825	a
+R12	Measure Arg1:T47 Arg2:T21	
+R13	Quantify Arg1:T48 Arg2:T21	
+T49	Amount 12346 12350	some
+R14	Quantify Arg1:T49 Arg2:T19	
+T50	Ingredient 14337 14342	sauce
+T51	Ingredient 14489 14494	sauce
+T53	Ingredient 14599 14604	sauce
