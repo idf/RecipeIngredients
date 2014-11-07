@@ -1,15 +1,18 @@
 # -*- coding: utf-8 -*-
+import sys
+import os
+sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
+
 from nltk.metrics.agreement import AnnotationTask
 from brat.tools import anntoconll
-import os
 import io
 import codecs
 __author__ = 'Danyang'
 class KappaRater(object):
-    def __init__(self):
+    def __init__(self, S):
         this_dir = os.path.dirname(os.path.realpath(__file__))
-        dir1 = os.path.join(this_dir, "S4", "G1")
-        dir2 = os.path.join(this_dir, "S4", "G2")
+        dir1 = os.path.join(this_dir, S, "G1")
+        dir2 = os.path.join(this_dir, S, "G2")
         self.annotation_task = AnnotationTask(data=self.__readfile(dir1, dir2))
 
     def __readfile(self, *args):
@@ -43,5 +46,7 @@ class KappaRater(object):
 
 
 if __name__=="__main__":
-    kappa_rater = KappaRater()
-    print kappa_rater.kappa()
+    for S in ["S2", "S3", "S4"]:
+        kappa_rater = KappaRater(S)
+        print "%s: %f"%(S, kappa_rater.kappa())
+        print "------------------------------"
