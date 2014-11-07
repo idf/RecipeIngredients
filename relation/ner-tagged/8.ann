@@ -1,0 +1,132 @@
+T1	Recipe 281 291	Fish Tacos
+T2	Recipe 349 359	Fish Tacos
+T3	Ingredient 911 922	white onion
+T4	Ingredient 872 885	green cabbage
+T5	Ingredient 945 951	jicama
+T6	Ingredient 1179 1183	salt
+T7	Ingredient 1263 1267	salt
+T8	Ingredient 1272 1282	lime juice
+T9	Ingredient 1317 1324	cabbage
+T10	Amount 1582 1583	a
+T11	Unit 1584 1592	teaspoon
+T12	Ingredient 1596 1600	salt
+R1	Quantify Arg1:T10 Arg2:T12	
+R2	Measure Arg1:T11 Arg2:T12	
+T13	Ingredient 1867 1877	lime juice
+T14	Ingredient 1956 1967	lemon juice
+T15	Amount 2105 2108	two
+T16	Unit 2109 2120	tablespoons
+T17	Ingredient 2022 2027	juice
+R3	Measure Arg1:T16 Arg2:T17	
+R4	Quantify Arg1:T15 Arg2:T17	
+T18	Ingredient 2209 2217	cilantro
+T19	Ingredient 2228 2237	coriander
+T20	Ingredient 2307 2315	cilantro
+T21	Ingredient 2457 2464	cabbage
+T22	Ingredient 2778 2794	mayonnaise sauce
+T23	Ingredient 2878 2894	chipotle peppers
+T24	Ingredient 2829 2839	mayonnaise
+T25	Ingredient 2902 2910	chipotle
+T26	Ingredient 2915 2920	adobo
+T27	Ingredient 2977 2987	adobo sauc
+T28	Ingredient 3066 3089	smoked jalapeno peppers
+T29	Amount 3322 3332	half of on
+T30	Unit 3517 3527	tablespoon
+T31	Amount 3515 3516	a
+T32	Ingredient 3531 3539	chipotle
+T33	Ingredient 3543 3548	adobo
+R5	Quantify Arg1:T31 Arg2:T32	
+R6	Measure Arg1:T30 Arg2:T32	
+T34	Ingredient 3576 3586	mayonnaise
+T35	Ingredient 3726 3736	lime juice
+T36	Amount 3750 3751	a
+T37	Unit 3752 3762	tablespoon
+R7	Measure Arg1:T37 Arg2:T35	
+R8	Quantify Arg1:T36 Arg2:T35	
+T38	Ingredient 3812 3824	malt vinegar
+T39	Amount 3796 3797	a
+R9	Quantify Arg1:T39 Arg2:T38	
+T40	Ingredient 3985 3995	lime juice
+T41	Ingredient 4666 4677	cumin seeds
+T42	Ingredient 4687 4692	anise
+T43	Ingredient 4734 4744	anise seed
+T44	Ingredient 4896 4906	cumin seed
+T45	Ingredient 4937 4949	chili powder
+T46	Ingredient 4969 4981	chili powder
+T47	Ingredient 5049 5067	New Mexico chilies
+T48	Ingredient 5021 5034	ancho chilies
+T49	Ingredient 5105 5117	chili powder
+T53	Ingredient 5581 5585	salt
+T54	Ingredient 5590 5596	pepper
+T55	Ingredient 5757 5765	cornmeal
+T56	Ingredient 5925 5937	fine polenta
+T57	Ingredient 6225 6232	snapper
+T58	Ingredient 6307 6313	salmon
+T59	Ingredient 6805 6813	cornmeal
+T60	Ingredient 7239 7242	oil
+T61	Ingredient 7414 7424	canola oil
+T62	Amount 7395 7398	two
+T63	Unit 7399 7410	tablespoons
+R12	Measure Arg1:T63 Arg2:T61	
+R13	Quantify Arg1:T62 Arg2:T61	
+T64	Ingredient 7428 7436	corn oil
+T65	Ingredient 7440 7450	peanut oil
+R14	Quantify Arg1:T62 Arg2:T64	
+R15	Measure Arg1:T63 Arg2:T64	
+R16	Quantify Arg1:T62 Arg2:T65	
+R17	Measure Arg1:T63 Arg2:T65	
+T66	Ingredient 8396 8405	tortillas
+T68	Ingredient 5466 5472	spices
+T69	Ingredient 5536 5548	chili powder
+T70	Ingredient 6361 6365	fish
+T71	Amount 867 871	some
+R18	Quantify Arg1:T71 Arg2:T4	
+T72	Amount 906 910	some
+R19	Quantify Arg1:T72 Arg2:T3	
+T73	Amount 940 944	some
+R20	Quantify Arg1:T73 Arg2:T5	
+T74	Amount 1174 1178	some
+R21	Quantify Arg1:T74 Arg2:T6	
+T75	Amount 1862 1866	some
+R22	Quantify Arg1:T75 Arg2:T13	
+T76	Amount 1951 1955	some
+R23	Quantify Arg1:T76 Arg2:T14	
+T77	Amount 2204 2208	some
+R24	Quantify Arg1:T77 Arg2:T18	
+T78	Amount 2824 2828	some
+R25	Quantify Arg1:T78 Arg2:T24	
+T79	Amount 2866 2870	some
+R26	Quantify Arg1:T79 Arg2:T23	
+T80	Amount 3721 3725	some
+R27	Quantify Arg1:T80 Arg2:T35	
+T81	Amount 3571 3575	some
+R28	Quantify Arg1:T81 Arg2:T34	
+T82	Amount 4661 4665	some
+T83	Amount 5752 5756	some
+R29	Quantify Arg1:T82 Arg2:T41	
+T84	Amount 4682 4686	some
+R30	Quantify Arg1:T84 Arg2:T42	
+T85	Amount 4932 4936	some
+R31	Quantify Arg1:T85 Arg2:T45	
+R32	Quantify Arg1:T83 Arg2:T55	
+T86	Amount 6215 6219	some
+R33	Quantify Arg1:T86 Arg2:T57	
+T87	Amount 7234 7238	some
+R34	Quantify Arg1:T87 Arg2:T60	
+T88	Recipe 730 739	Fish Taco
+T89	Unit 3805 3808	bit
+R35	Measure Arg1:T89 Arg2:T38	
+T90	Ingredient 4165 4172	vinegar
+T91	Ingredient 4181 4191	lime juice
+T92	Ingredient 4227 4235	chipotle
+T93	Ingredient 4340 4345	honey
+T94	Ingredient 4349 4354	sugar
+T95	Unit 4333 4336	bit
+T96	Amount 4324 4325	a
+R36	Measure Arg1:T95 Arg2:T93	
+R37	Quantify Arg1:T96 Arg2:T93	
+T97	Ingredient 4498 4502	fish
+R38	Quantify Arg1:T96 Arg2:T94	
+R39	Measure Arg1:T95 Arg2:T94	
+T50	Ingredient 6266 6279	lightish fish
+T51	Ingredient 6842 6846	fish

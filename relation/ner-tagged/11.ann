@@ -1,0 +1,43 @@
+T1	Recipe 321 331	kale chips
+T2	Recipe 333 349	cacao kale chips
+T3	Ingredient 449 459	kale chips
+T4	Recipe 831 847	cacao kale chips
+T5	Amount 856 859	two
+T6	Unit 860 867	bunches
+T7	Ingredient 871 875	kale
+R1	Measure Arg1:T6 Arg2:T7	
+R2	Quantify Arg1:T5 Arg2:T7	
+T8	Ingredient 888 899	coconut oil
+T9	Ingredient 967 977	almond oil
+T10	Ingredient 1001 1012	almond meal
+T11	Ingredient 1043 1049	stevia
+T12	Ingredient 1062 1074	cacao powder
+T13	Amount 3467 3475	a couple
+T14	Unit 3476 3487	tablespoons
+T15	Ingredient 3426 3429	oil
+T16	Amount 1038 1042	some
+R3	Quantify Arg1:T16 Arg2:T11	
+R4	Quantify Arg1:T13 Arg2:T15	
+R5	Measure Arg1:T14 Arg2:T15	
+T17	Ingredient 3320 3332	cacao powder
+T18	Ingredient 3278 3284	stevia
+T19	Ingredient 3218 3224	stevia
+T20	Amount 3273 3277	some
+R6	Quantify Arg1:T20 Arg2:T18	
+T21	Amount 3213 3217	some
+R7	Quantify Arg1:T21 Arg2:T19	
+T22	Amount 3057 3065	a couple
+T23	Unit 3066 3077	tablespoons
+T24	Amount 3145 3147	an
+T25	Unit 3154 3164	tablespoon
+T26	Amount 3168 3169	2
+T27	Ingredient 2167 2171	kale
+T28	Ingredient 2922 2933	almond meal
+T29	Ingredient 2789 2793	kale
+T31	Unit 438 445	bunches
+T32	Amount 434 437	two
+T33	Ingredient 1117 1127	kale chips
+R9	Measure Arg1:T31 Arg2:T3	
+R10	Quantify Arg1:T32 Arg2:T3	
+T34	Ingredient 474 478	kale
+T30	Recipe 3555 3565	kale chips

@@ -1,0 +1,63 @@
+T1	Recipe 247 276	Cracker Barrel's fried apples
+T2	Ingredient 458 464	apples
+T4	Ingredient 517 523	apples
+T5	Amount 505 509	five
+T7	Amount 513 516	six
+T6	Ingredient 565 580	bacon drippings
+T8	Ingredient 555 561	butter
+T3	Ingredient 889 900	tart apples
+T9	Amount 885 888	six
+R1	Quantify Arg1:T9 Arg2:T3	
+T10	Amount 877 881	five
+T12	Ingredient 1506 1512	butter
+R2	Quantify Arg1:T10 Arg2:T3	
+T13	Ingredient 1563 1569	apples
+T14	Ingredient 2343 2349	butter
+T15	Ingredient 2354 2365	brown sugar
+T16	Ingredient 1943 1949	butter
+R3	Quantify Arg1:T7 Arg2:T4	
+T17	Ingredient 1992 1998	apples
+R4	Quantify Arg1:T5 Arg2:T4	
+T18	Ingredient 907 918	brown sugar
+T19	Ingredient 2093 2104	brown sugar
+T20	Amount 902 906	some
+T21	Ingredient 2128 2139	brown sugar
+R5	Quantify Arg1:T20 Arg2:T18	
+T22	Recipe 2867 2894	Cracker Barrel fried apples
+T23	Ingredient 2197 2205	cinnamon
+T24	Ingredient 936 942	nutmeg
+T26	Amount 2232 2233	a
+T27	Ingredient 3138 3144	apples
+T28	Ingredient 2248 2254	nutmeg
+T29	Ingredient 949 957	cinnamon
+T30	Amount 944 948	some
+R7	Quantify Arg1:T30 Arg2:T29	
+T31	Ingredient 3219 3225	apples
+T32	Ingredient 962 973	lemon juice
+T33	Ingredient 2637 2643	apples
+T34	Ingredient 1276 1282	apples
+T35	Ingredient 620 635	bacon drippings
+T36	Ingredient 698 713	bacon drippings
+T38	Ingredient 1021 1027	apples
+R8	Quantify Arg1:T30 Arg2:T32	
+T25	Amount 920 921	a
+R9	Quantify Arg1:T25 Arg2:T24	
+T37	Recipe 1216 1228	fried apples
+T39	Ingredient 1116 1127	lemon juice
+T40	Recipe 2825 2837	fried apples
+T11	Recipe 336 352	Cracker Barrel's
+T41	Recipe 360 372	fried apples
+T42	Amount 1100 1101	a
+R6	Quantify Arg1:T42 Arg2:T39	
+T43	Ingredient 1311 1317	butter
+T44	Ingredient 1397 1412	bacon drippings
+T45	Ingredient 1435 1450	bacon drippings
+T47	Ingredient 2421 2427	apples
+T48	Ingredient 2455 2461	butter
+T50	Unit 929 932	bit
+R10	Measure Arg1:T50 Arg2:T24	
+T51	Unit 1109 1112	bit
+R11	Measure Arg1:T51 Arg2:T39	
+R12	Quantify Arg1:T26 Arg2:T28	
+T46	Unit 2241 2244	bit
+R13	Measure Arg1:T46 Arg2:T28	

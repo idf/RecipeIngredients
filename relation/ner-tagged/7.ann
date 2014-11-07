@@ -1,0 +1,78 @@
+T1	Recipe 274 295	filet-o-fish sandwich
+T2	Ingredient 520 524	fish
+T3	Ingredient 539 546	tilapia
+T4	Ingredient 639 646	halibut
+T5	Ingredient 650 653	cod
+T6	Ingredient 1598 1609	lemon juice
+T7	Ingredient 1742 1753	lemon juice
+T8	Ingredient 1969 1987	white wine vinegar
+T9	Ingredient 2002 2018	tarragon vinegar
+T10	Ingredient 2606 2610	salt
+T11	Amount 2588 2589	a
+T13	Ingredient 2645 2657	white pepper
+T14	Ingredient 2918 2930	pickle juice
+T15	Ingredient 3028 3039	white onion
+T16	Ingredient 4087 4091	fish
+T17	Ingredient 4164 4176	fish fillets
+T18	Ingredient 4207 4211	milk
+T19	Ingredient 4220 4224	milk
+T20	Ingredient 4517 4532	oyster crackers
+T21	Ingredient 4582 4597	oyster crackers
+T22	Ingredient 5167 5179	bread crumbs
+T23	Ingredient 5222 5234	bread crumbs
+T24	Ingredient 5269 5277	crackers
+T25	Ingredient 5350 5358	crackers
+T26	Ingredient 5989 5999	peanut oil
+T27	Amount 5974 5980	a half
+R1	Quantify Arg1:T27 Arg2:T26	
+T28	Ingredient 6018 6028	canola oil
+T29	Ingredient 6030 6043	vegetable oil
+T30	Ingredient 6192 6203	bread crumb
+T31	Ingredient 7930 7944	hamburger buns
+T32	Recipe 8060 8075	fish sandwiches
+T33	Recipe 8077 8092	fish sandwiches
+T34	Recipe 8094 8109	fish sandwiches
+T35	Ingredient 8392 8398	cheese
+T36	Recipe 8777 8798	filet-o-fish sandwich
+R2	Quantify Arg1:T11 Arg2:T10	
+T38	Ingredient 579 585	fillet
+T39	Ingredient 2257 2267	mayonnaise
+T40	Amount 515 519	some
+T41	Amount 1593 1597	some
+T42	Amount 4512 4516	some
+T43	Amount 4202 4206	some
+T44	Ingredient 8285 8300	American cheese
+T45	Amount 8280 8284	some
+R4	Quantify Arg1:T40 Arg2:T2	
+R5	Quantify Arg1:T41 Arg2:T6	
+R6	Quantify Arg1:T43 Arg2:T18	
+R7	Quantify Arg1:T42 Arg2:T20	
+R8	Quantify Arg1:T45 Arg2:T44	
+T46	Unit 2597 2602	pinch
+R9	Measure Arg1:T46 Arg2:T10	
+T47	Amount 2897 2898	a
+R10	Quantify Arg1:T47 Arg2:T14	
+T48	Unit 2906 2909	bit
+R3	Measure Arg1:T48 Arg2:T14	
+T49	Amount 3007 3011	some
+R11	Quantify Arg1:T49 Arg2:T15	
+T51	Unit 2638 2641	bit
+R12	Measure Arg1:T51 Arg2:T13	
+T12	Amount 2629 2630	a
+R13	Quantify Arg1:T12 Arg2:T13	
+T50	Ingredient 4141 4152	lemon juice
+T52	Unit 5981 5985	inch
+R14	Measure Arg1:T52 Arg2:T26	
+T53	Ingredient 7287 7296	spray oil
+T55	Amount 7261 7262	a
+T54	Unit 7270 7273	bit
+R15	Quantify Arg1:T55 Arg2:T53	
+T56	Amount 7914 7922	a couple
+R16	Measure Arg1:T54 Arg2:T53	
+R17	Quantify Arg1:T56 Arg2:T31	
+T57	Ingredient 7865 7869	fish
+T58	Amount 8376 8380	half
+T59	Unit 8383 8388	slice
+R18	Quantify Arg1:T58 Arg2:T35	
+R19	Measure Arg1:T59 Arg2:T35	
+T37	Recipe 9389 9401	filet-o-fish

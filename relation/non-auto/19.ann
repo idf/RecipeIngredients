@@ -1,0 +1,83 @@
+T1	Recipe 268 299	Italian Turkey Zucchini Burgers
+T2	Ingredient 608 614	turkey
+T3	Unit 598 604	pounds
+T4	Amount 596 597	2
+R1	Measure Arg1:T3 Arg2:T2	
+R2	Quantify Arg1:T4 Arg2:T2	
+T5	Ingredient 660 669	zucchinis
+T6	Amount 658 659	2
+R3	Quantify Arg1:T6 Arg2:T5	
+T7	Ingredient 702 710	zucchini
+T8	Unit 695 698	bit
+T9	Amount 693 694	a
+R4	Measure Arg1:T8 Arg2:T7	
+R5	Quantify Arg1:T9 Arg2:T7	
+T10	Ingredient 770 776	turkey
+T11	Ingredient 832 840	zucchini
+T12	Ingredient 1043 1051	zucchini
+T13	Ingredient 1204 1210	pepper
+T14	Unit 1192 1200	teaspoon
+T15	Amount 1190 1191	a
+R6	Measure Arg1:T14 Arg2:T13	
+R7	Quantify Arg1:T15 Arg2:T13	
+T16	Unit 1219 1227	teaspoon
+T17	Amount 1217 1218	1
+T18	Ingredient 1231 1237	garlic
+R8	Measure Arg1:T16 Arg2:T18	
+R9	Quantify Arg1:T17 Arg2:T18	
+T19	Unit 1241 1249	teaspoon
+T20	Amount 1239 1240	1
+T21	Ingredient 1253 1257	salt
+R10	Measure Arg1:T19 Arg2:T21	
+R11	Quantify Arg1:T20 Arg2:T21	
+T22	Ingredient 1273 1280	oregano
+T23	Unit 1261 1269	teaspoon
+T24	Amount 1259 1260	1
+R12	Measure Arg1:T23 Arg2:T22	
+R13	Quantify Arg1:T24 Arg2:T22	
+T25	Ingredient 1306 1318	onion powder
+T26	Unit 1293 1302	teaspoons
+T27	Amount 1291 1292	2
+R14	Quantify Arg1:T27 Arg2:T25	
+R15	Measure Arg1:T26 Arg2:T25	
+T28	Ingredient 1338 1343	basil
+T29	Unit 1325 1334	teaspoons
+T30	Amount 1323 1324	2
+R16	Measure Arg1:T29 Arg2:T28	
+R17	Quantify Arg1:T30 Arg2:T28	
+T31	Ingredient 1421 1427	turkey
+T32	Ingredient 1782 1786	beef
+T33	Ingredient 1796 1817	ground chicken breast
+T34	Ingredient 1845 1866	ground chicken breast
+T35	Ingredient 2527 2536	Zucchinis
+T36	Ingredient 3324 3332	zucchini
+T37	Ingredient 3379 3385	turkey
+T38	Unit 3369 3375	pounds
+T39	Amount 3367 3368	2
+R18	Measure Arg1:T38 Arg2:T37	
+R19	Quantify Arg1:T39 Arg2:T37	
+T40	Ingredient 4262 4274	Ezekiel buns
+T41	Ingredient 4510 4514	buns
+T42	Ingredient 4532 4546	English muffin
+T44	Ingredient 4695 4709	English muffin
+T46	Ingredient 4918 4925	lettuce
+T47	Unit 4911 4914	bit
+T48	Amount 4902 4903	a
+R22	Measure Arg1:T47 Arg2:T46	
+R23	Quantify Arg1:T48 Arg2:T46	
+T49	Ingredient 4982 4989	Ketchup
+T50	Ingredient 4999 5006	mustard
+T51	Ingredient 5033 5040	ketchup
+T52	Ingredient 4872 4878	tomato
+T53	Ingredient 4837 4840	bun
+T55	Ingredient 638 644	turkey
+T56	Ingredient 573 581	zucchini
+T54	Unit 629 634	pound
+T57	Ingredient 2107 2115	zucchini
+T58	Amount 2403 2409	4 or 5
+T59	Unit 2410 2416	ounces
+R24	Quantify Arg1:T58 Arg2:T57	
+R25	Measure Arg1:T59 Arg2:T57	
+T60	Amount 4870 4871	a
+R26	Quantify Arg1:T60 Arg2:T52	
+T43	Recipe 5289 5295	burger
