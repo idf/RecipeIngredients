@@ -1,0 +1,80 @@
+T1	Recipe 272 303	Italian Turkey Zucchini Burgers
+T2	Ingredient 582 590	zucchini
+T3	Amount 606 607	2
+T4	Unit 608 614	pounds
+T5	Ingredient 618 624	turkey
+R1	Quantify Arg1:T3 Arg2:T5	
+R2	Measure Arg1:T4 Arg2:T5	
+T7	Ingredient 670 679	zucchinis
+T9	Ingredient 648 654	turkey
+T11	Ingredient 713 721	zucchini
+T12	Ingredient 781 787	turkey
+T13	Ingredient 843 851	zucchini
+T14	Ingredient 1058 1066	zucchini
+T19	Amount 1208 1209	a
+T20	Unit 1210 1218	teaspoon
+T21	Ingredient 1222 1228	pepper
+R5	Quantify Arg1:T19 Arg2:T21	
+R6	Measure Arg1:T20 Arg2:T21	
+T22	Amount 1235 1236	1
+T23	Unit 1237 1245	teaspoon
+T24	Ingredient 1249 1255	garlic
+R7	Quantify Arg1:T22 Arg2:T24	
+R8	Measure Arg1:T23 Arg2:T24	
+T25	Amount 1257 1258	1
+T26	Unit 1259 1267	teaspoon
+T27	Ingredient 1271 1275	salt
+R9	Quantify Arg1:T25 Arg2:T27	
+R10	Measure Arg1:T26 Arg2:T27	
+T28	Amount 1277 1278	1
+T29	Unit 1279 1287	teaspoon
+T30	Ingredient 1291 1298	oregano
+R11	Quantify Arg1:T28 Arg2:T30	
+R12	Measure Arg1:T29 Arg2:T30	
+T31	Amount 1309 1310	2
+T32	Unit 1311 1320	teaspoons
+T33	Ingredient 1324 1336	onion powder
+R13	Quantify Arg1:T31 Arg2:T33	
+R14	Measure Arg1:T32 Arg2:T33	
+T34	Amount 1341 1342	2
+T35	Unit 1343 1352	teaspoons
+T36	Ingredient 1356 1361	basil
+R15	Quantify Arg1:T34 Arg2:T36	
+R16	Measure Arg1:T35 Arg2:T36	
+T37	Ingredient 1442 1448	turkey
+T38	Ingredient 1807 1811	beef
+T39	Amount 2438 2439	4
+T40	Amount 2443 2444	5
+T41	Unit 2445 2451	ounces
+T42	Ingredient 2138 2146	zucchini
+T43	Ingredient 2565 2574	Zucchinis
+T44	Ingredient 3368 3376	zucchini
+T45	Amount 3411 3412	2
+T46	Unit 3413 3419	pounds
+T47	Ingredient 3423 3429	turkey
+R17	Quantify Arg1:T45 Arg2:T47	
+R18	Measure Arg1:T46 Arg2:T47	
+T48	Ingredient 4907 4910	bun
+T49	Ingredient 4572 4576	buns
+T50	Ingredient 4943 4949	tomato
+T51	Amount 4941 4942	a
+R19	Quantify Arg1:T51 Arg2:T50	
+T53	Ingredient 4990 4997	lettuce
+T54	Ingredient 5055 5062	Ketchup
+T55	Ingredient 5107 5114	ketchup
+T56	Recipe 5369 5375	burger
+T6	Amount 704 705	a
+T8	Unit 706 709	bit
+R3	Quantify Arg1:T6 Arg2:T11	
+R4	Measure Arg1:T8 Arg2:T11	
+T10	Ingredient 1821 1842	ground chicken breast
+T15	Ingredient 1871 1892	ground chicken breast
+R21	Quantify Arg1:T39 Arg2:T42	
+R22	Quantify Arg1:T40 Arg2:T42	
+R23	Measure Arg1:T41 Arg2:T42	
+T16	Ingredient 4603 4609	muffin
+T17	Amount 4974 4975	a
+T18	Unit 4983 4986	bit
+R20	Quantify Arg1:T17 Arg2:T53	
+R24	Measure Arg1:T18 Arg2:T53	
+T52	Ingredient 5072 5079	mustard

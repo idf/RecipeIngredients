@@ -1,0 +1,100 @@
+T1	Recipe 438 455	Greek Pasta Salad
+T2	Ingredient 714 724	watermelon
+T3	Recipe 765 776	pasta salad
+T4	Ingredient 896 901	water
+T5	Amount 885 892	a quart
+T6	Ingredient 977 982	water
+R1	Quantify Arg1:T5 Arg2:T4	
+T7	Ingredient 1002 1007	pasta
+T8	Ingredient 1128 1133	water
+T9	Ingredient 1039 1044	water
+T10	Amount 1254 1261	a quart
+T11	Amount 963 973	six quarts
+R2	Quantify Arg1:T11 Arg2:T6	
+T12	Ingredient 1265 1270	water
+R3	Quantify Arg1:T10 Arg2:T12	
+T13	Amount 1279 1282	two
+T14	Unit 1283 1287	cups
+T15	Amount 1300 1311	1/2 a pound
+T16	Ingredient 1291 1296	pasta
+R4	Quantify Arg1:T13 Arg2:T16	
+R5	Measure Arg1:T14 Arg2:T16	
+R6	Quantify Arg1:T15 Arg2:T16	
+T17	Ingredient 1412 1417	water
+T18	Ingredient 1443 1448	pasta
+T19	Ingredient 1553 1558	pasta
+T20	Ingredient 1687 1691	salt
+T21	Ingredient 1698 1703	water
+T22	Amount 1682 1686	some
+R7	Quantify Arg1:T22 Arg2:T20	
+T23	Ingredient 2035 2040	pasta
+T24	Ingredient 2221 2232	green beans
+T25	Ingredient 2459 2470	green beans
+T26	Ingredient 2700 2711	green beans
+T27	Ingredient 2729 2734	pasta
+T28	Ingredient 2739 2750	green beans
+T29	Ingredient 2830 2841	green beans
+T30	Ingredient 2912 2917	pasta
+T31	Ingredient 2926 2937	green beans
+T32	Ingredient 2981 2986	water
+T33	Ingredient 3241 3248	parsley
+T34	Amount 2971 2975	some
+R8	Quantify Arg1:T34 Arg2:T32	
+T35	Amount 3230 3234	some
+R9	Quantify Arg1:T35 Arg2:T33	
+T36	Ingredient 3541 3547	olives
+T37	Amount 3527 3531	some
+R10	Quantify Arg1:T37 Arg2:T36	
+T38	Ingredient 3581 3594	sweet peppers
+T39	Amount 3576 3580	some
+R11	Quantify Arg1:T39 Arg2:T38	
+T40	Amount 3599 3603	some
+T41	Ingredient 3604 3612	tomatoes
+R12	Quantify Arg1:T40 Arg2:T41	
+T42	Ingredient 3666 3672	olives
+T43	Ingredient 3977 3983	garlic
+T44	Unit 3968 3973	clove
+T45	Amount 3966 3967	a
+R13	Measure Arg1:T44 Arg2:T43	
+R14	Quantify Arg1:T45 Arg2:T43	
+T46	Ingredient 4053 4059	garlic
+T47	Ingredient 4137 4143	garlic
+T48	Ingredient 4178 4187	olive oil
+T49	Amount 4199 4202	two
+T50	Unit 4203 4214	tablespoons
+T51	Amount 4249 4253	some
+T52	Ingredient 4254 4272	white wine vinegar
+R15	Measure Arg1:T50 Arg2:T48	
+R16	Quantify Arg1:T49 Arg2:T48	
+R17	Quantify Arg1:T51 Arg2:T52	
+T53	Ingredient 4290 4306	red wine vinegar
+T54	Ingredient 4324 4337	cider vinegar
+T55	Amount 4363 4371	a couple
+T56	Unit 4375 4386	tablespoons
+R18	Quantify Arg1:T55 Arg2:T52	
+R19	Measure Arg1:T56 Arg2:T52	
+T57	Ingredient 4464 4471	vinegar
+T58	Ingredient 4475 4486	lemon juice
+T59	Ingredient 4722 4734	black pepper
+T60	Amount 4717 4721	some
+R20	Quantify Arg1:T60 Arg2:T59	
+T61	Ingredient 4754 4758	salt
+T62	Ingredient 4790 4797	oregano
+T63	Amount 4785 4789	some
+R21	Quantify Arg1:T63 Arg2:T62	
+T64	Unit 4851 4852	a
+T65	Unit 4859 4867	teaspoon
+R22	Measure Arg1:T64 Arg2:T62	
+R23	Measure Arg1:T65 Arg2:T62	
+T66	Ingredient 4919 4924	pasta
+T67	Ingredient 5155 5164	Cucumbers
+T68	Amount 5852 5856	some
+T69	Ingredient 5857 5872	parmesan cheese
+R24	Quantify Arg1:T68 Arg2:T69	
+T70	Ingredient 5910 5921	feta cheese
+T71	Amount 5932 5944	a little bit
+T72	Amount 5946 5952	couple
+T73	Unit 5956 5967	tablespoons
+R25	Quantify Arg1:T71 Arg2:T70	
+R26	Quantify Arg1:T72 Arg2:T70	
+R27	Measure Arg1:T73 Arg2:T70	

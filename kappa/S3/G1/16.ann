@@ -1,0 +1,67 @@
+T1	Recipe 252 271	Frozen Spinach Cups
+T2	Ingredient 680 687	Spinach
+T3	Ingredient 891 898	spinach
+T4	Ingredient 1024 1031	spinach
+T5	Unit 1017 1020	bag
+T6	Amount 1013 1016	one
+R1	Measure Arg1:T5 Arg2:T4	
+R2	Quantify Arg1:T6 Arg2:T4	
+T7	Ingredient 1045 1050	water
+T8	Ingredient 1081 1086	water
+T9	Unit 1073 1077	cups
+T10	Amount 1071 1072	2
+R3	Quantify Arg1:T10 Arg2:T8	
+R4	Measure Arg1:T9 Arg2:T8	
+T11	Ingredient 1163 1170	spinach
+T12	Ingredient 1190 1195	water
+T13	Unit 1123 1127	cups
+T14	Amount 1121 1122	2
+R5	Quantify Arg1:T14 Arg2:T8	
+R6	Measure Arg1:T13 Arg2:T8	
+T15	Ingredient 1725 1730	water
+T16	Unit 1718 1721	cup
+T17	Amount 1714 1717	1/2
+R7	Measure Arg1:T16 Arg2:T15	
+R8	Quantify Arg1:T17 Arg2:T15	
+T18	Ingredient 1749 1756	spinach
+T19	Unit 1737 1745	handfuls
+T20	Amount 1735 1736	2
+R9	Measure Arg1:T19 Arg2:T18	
+R10	Quantify Arg1:T20 Arg2:T18	
+T21	Ingredient 1880 1885	water
+T22	Ingredient 2100 2107	spinach
+T23	Ingredient 2151 2158	spinach
+T24	Amount 2928 2930	12
+T25	Amount 2946 2948	12
+T26	Amount 2994 2995	6
+T27	Ingredient 5059 5063	milk
+T28	Ingredient 5042 5047	water
+T29	Ingredient 4889 4901	almond milks
+T30	Ingredient 4713 4736	unsweetened almond milk
+T31	Amount 5088 5089	8
+T32	Unit 5090 5096	ounces
+T33	Ingredient 5172 5184	whey protein
+T34	Unit 5163 5168	scoop
+T35	Amount 5159 5162	one
+R11	Quantify Arg1:T35 Arg2:T33	
+R12	Measure Arg1:T34 Arg2:T33	
+T36	Recipe 5293 5311	frozen spinach cup
+T37	Ingredient 5651 5662	blueberries
+T38	Ingredient 5776 5787	blueberries
+T39	Ingredient 596 607	blueberries
+T40	Amount 927 936	6 to an 8
+T41	Unit 937 942	ounce
+R13	Quantify Arg1:T40 Arg2:T3	
+T42	Unit 943 946	bag
+T43	Amount 925 926	a
+R14	Measure Arg1:T41 Arg2:T3	
+R15	Quantify Arg1:T43 Arg2:T3	
+R16	Measure Arg1:T42 Arg2:T3	
+T44	Ingredient 1782 1787	water
+T45	Unit 1831 1834	cup
+T46	Amount 1829 1830	1
+R17	Measure Arg1:T45 Arg2:T21	
+R18	Quantify Arg1:T46 Arg2:T21	
+T47	Ingredient 1547 1554	spinach
+R19	Measure Arg1:T32 Arg2:T29	
+R20	Quantify Arg1:T31 Arg2:T29	

@@ -1,0 +1,67 @@
+T3	Ingredient 1494 1505	bread flour
+T4	Ingredient 1602 1619	all-purpose flour
+T5	Ingredient 1641 1659	all- purpose flour
+T6	Ingredient 1703 1708	dough
+T7	Amount 1750 1754	some
+T8	Ingredient 1755 1764	dry yeast
+R2	Quantify Arg1:T7 Arg2:T8	
+T9	Ingredient 1851 1867	active dry yeast
+T10	Ingredient 1881 1898	instant dry yeast
+T11	Ingredient 2608 2613	flour
+T12	Ingredient 2714 2718	Salt
+T13	Ingredient 2723 2728	sugar
+T14	Ingredient 2863 2866	oil
+T15	Ingredient 3890 3895	flour
+T16	Amount 3938 3946	a couple
+T17	Unit 3953 3962	teaspoons
+R3	Quantify Arg1:T16 Arg2:T15	
+R4	Measure Arg1:T17 Arg2:T15	
+T18	Amount 4068 4072	some
+T19	Ingredient 4073 4078	flour
+R5	Quantify Arg1:T18 Arg2:T19	
+T20	Ingredient 4151 4156	flour
+T21	Ingredient 4219 4224	flour
+T22	Amount 5731 5739	a little
+T23	Ingredient 5740 5743	oil
+R6	Quantify Arg1:T22 Arg2:T23	
+T24	Amount 5778 5786	a little
+T25	Ingredient 5787 5790	oil
+R7	Quantify Arg1:T24 Arg2:T25	
+T27	Amount 9070 9078	a little
+T28	Ingredient 9079 9084	flour
+R8	Quantify Arg1:T27 Arg2:T28	
+T29	Ingredient 9219 9224	flour
+T30	Amount 9210 9218	a little
+R9	Quantify Arg1:T30 Arg2:T29	
+T31	Amount 9907 9911	some
+T32	Ingredient 9912 9917	sauce
+T33	Ingredient 9922 9929	cheeses
+R10	Quantify Arg1:T31 Arg2:T32	
+R11	Quantify Arg1:T31 Arg2:T33	
+T34	Ingredient 11238 11259	whole milk mozzarella
+T35	Amount 11236 11237	a
+R12	Quantify Arg1:T35 Arg2:T34	
+T36	Ingredient 12149 12159	pepperonis
+T37	Ingredient 12006 12009	moz
+T38	Ingredient 12026 12031	pepps
+T39	Amount 12694 12698	some
+R13	Quantify Arg1:T39 Arg2:T36	
+T40	Ingredient 13197 13202	flour
+T41	Unit 13190 13193	bit
+T42	Amount 13181 13182	a
+R14	Quantify Arg1:T42 Arg2:T40	
+R15	Measure Arg1:T41 Arg2:T40	
+T43	Ingredient 14739 14744	sauce
+T44	Ingredient 14896 14901	sauce
+T45	Ingredient 14911 14917	cheese
+T46	Ingredient 14923 14932	pepperoni
+T47	Ingredient 14938 14943	crust
+T48	Ingredient 15009 15014	sauce
+T49	Ingredient 15101 15105	Ragu
+T50	Recipe 362 376	homemade pizza
+T51	Recipe 710 715	pizza
+T1	Recipe 2071 2085	homemade pizza
+T2	Ingredient 2564 2569	yeast
+T52	Recipe 4305 4311	pizzas
+T26	Recipe 8101 8106	pizza
+T53	Recipe 15496 15501	pizza

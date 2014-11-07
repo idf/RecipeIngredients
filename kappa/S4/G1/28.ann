@@ -1,0 +1,53 @@
+T1	Recipe 254 266	baked potato
+T2	Recipe 434 448	baked potatoes
+T3	Amount 568 574	a half
+T4	Unit 575 580	pound
+T5	Ingredient 611 622	kosher salt
+T6	Ingredient 736 740	salt
+T7	Ingredient 782 795	vegetable oil
+T8	Ingredient 839 852	vegetable oil
+T11	Ingredient 854 884	sunflower, safflower, corn oil
+T12	Ingredient 912 921	olive oil
+T13	Ingredient 926 936	peanut oil
+T9	Ingredient 1070 1082	baked potato
+T10	Ingredient 1207 1213	potato
+T14	Ingredient 1339 1345	potato
+T15	Ingredient 1657 1661	salt
+T16	Amount 1652 1656	some
+R3	Quantify Arg1:T16 Arg2:T15	
+T17	Ingredient 1758 1762	salt
+T18	Unit 1747 1750	bit
+T19	Amount 1738 1739	a
+R4	Quantify Arg1:T19 Arg2:T17	
+R5	Measure Arg1:T18 Arg2:T17	
+T20	Ingredient 1818 1822	salt
+T22	Ingredient 2598 2602	salt
+T23	Recipe 2695 2707	baked potato
+T24	Recipe 3112 3124	baked potato
+T25	Ingredient 3142 3155	vegetable oil
+T26	Unit 3135 3138	bit
+T27	Amount 3126 3127	a
+R6	Quantify Arg1:T27 Arg2:T25	
+R7	Measure Arg1:T26 Arg2:T25	
+T28	Ingredient 3197 3208	kosher salt
+T29	Ingredient 3229 3235	potato
+T30	Ingredient 3458 3464	butter
+T31	Ingredient 3466 3476	sour cream
+T32	Ingredient 3482 3488	chives
+T33	Recipe 3520 3532	baked potato
+T34	Amount 780 781	a
+R8	Quantify Arg1:T34 Arg2:T7	
+T35	Amount 3442 3443	a
+T36	Unit 3451 3454	bit
+R9	Measure Arg1:T36 Arg2:T30	
+R10	Quantify Arg1:T35 Arg2:T30	
+R11	Measure Arg1:T36 Arg2:T31	
+R12	Quantify Arg1:T35 Arg2:T31	
+R13	Measure Arg1:T36 Arg2:T32	
+R14	Quantify Arg1:T35 Arg2:T32	
+T37	Amount 606 610	some
+R15	Quantify Arg1:T37 Arg2:T5	
+T38	Recipe 2941 2953	baked potato
+T21	Ingredient 3008 3014	butter
+T39	Ingredient 3019 3029	sour cream
+T40	Recipe 3424 3436	baked potato

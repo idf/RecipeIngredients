@@ -1,0 +1,48 @@
+T1	Recipe 277 298	filet-o-fish sandwich
+T2	Ingredient 547 554	tilapia
+T3	Amount 1610 1614	some
+T4	Ingredient 1615 1626	lemon juice
+R1	Quantify Arg1:T3 Arg2:T4	
+T5	Ingredient 1991 2009	white wine vinegar
+T6	Ingredient 2024 2040	tarragon vinegar
+T7	Ingredient 2281 2291	mayonnaise
+T8	Amount 2614 2622	a little
+T9	Unit 2623 2628	pinch
+T10	Ingredient 2632 2636	salt
+R2	Quantify Arg1:T8 Arg2:T10	
+R3	Measure Arg1:T9 Arg2:T10	
+T11	Amount 2655 2667	a little bit
+T12	Ingredient 2671 2683	white pepper
+R4	Quantify Arg1:T11 Arg2:T12	
+T13	Ingredient 2856 2877	hamburger dill slices
+T14	Amount 2926 2938	a little bit
+T15	Ingredient 2947 2959	pickle juice
+R5	Quantify Arg1:T14 Arg2:T15	
+T16	Amount 3039 3043	some
+T17	Ingredient 3060 3071	white onion
+R6	Quantify Arg1:T16 Arg2:T17	
+T18	Ingredient 4209 4221	fish fillets
+T19	Ingredient 4186 4197	lemon juice
+T20	Amount 4247 4251	some
+T21	Ingredient 4252 4256	milk
+R7	Quantify Arg1:T20 Arg2:T21	
+T22	Ingredient 4265 4269	milk
+T23	Amount 4561 4565	some
+T24	Ingredient 4566 4581	oyster crackers
+R8	Quantify Arg1:T23 Arg2:T24	
+T25	Ingredient 4632 4647	oyster crackers
+T26	Ingredient 5324 5332	crackers
+T27	Ingredient 5406 5414	crackers
+T28	Amount 6038 6042	half
+T29	Unit 6043 6047	inch
+T30	Ingredient 6051 6061	peanut oil
+R9	Quantify Arg1:T28 Arg2:T30	
+R10	Measure Arg1:T29 Arg2:T30	
+T31	Amount 7335 7347	a little bit
+T32	Ingredient 7361 7370	spray oil
+R11	Quantify Arg1:T31 Arg2:T32	
+T33	Ingredient 7946 7950	fish
+T34	Amount 7996 8004	a couple
+T35	Ingredient 8012 8026	hamburger buns
+R12	Quantify Arg1:T34 Arg2:T35	
+T36	Recipe 8872 8893	filet-o-fish sandwich

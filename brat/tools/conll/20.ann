@@ -1,0 +1,116 @@
+T1	Recipe 268 288	Pumpkin Protein Bars
+T2	Ingredient 767 776	oat flour
+T3	Amount 757 758	2
+T4	Unit 759 763	cups
+R1	Measure Arg1:T4 Arg2:T2	
+R2	Quantify Arg1:T3 Arg2:T2	
+T5	Ingredient 788 797	oat flour
+T6	Amount 1026 1027	2
+T7	Unit 1028 1034	scoops
+T8	Ingredient 1040 1060	vanilla whey protein
+R3	Measure Arg1:T7 Arg2:T8	
+R4	Quantify Arg1:T6 Arg2:T8	
+T9	Unit 1241 1247	scoops
+T10	Amount 1239 1240	2
+R5	Quantify Arg1:T10 Arg2:T8	
+R6	Measure Arg1:T9 Arg2:T8	
+T11	Amount 1367 1372	1 1/2
+T12	Unit 1373 1382	teaspoons
+T13	Ingredient 1386 1399	ground ginger
+R7	Measure Arg1:T12 Arg2:T13	
+R8	Quantify Arg1:T11 Arg2:T13	
+T14	Amount 1401 1404	1/2
+T15	Unit 1405 1413	teaspoon
+T16	Ingredient 1417 1423	cloves
+R9	Measure Arg1:T15 Arg2:T16	
+R10	Quantify Arg1:T14 Arg2:T16	
+T17	Ingredient 1357 1365	cinnamon
+T18	Unit 1344 1353	teaspoons
+T19	Amount 1342 1343	2
+R11	Measure Arg1:T18 Arg2:T17	
+R12	Quantify Arg1:T19 Arg2:T17	
+T20	Unit 1600 1608	teaspoon
+T21	Amount 1596 1599	1/2
+T22	Ingredient 1612 1616	salt
+R13	Measure Arg1:T20 Arg2:T22	
+R14	Quantify Arg1:T21 Arg2:T22	
+T23	Ingredient 1573 1586	baking powder
+T24	Unit 1561 1569	teaspoon
+T25	Amount 1559 1560	a
+R15	Quantify Arg1:T25 Arg2:T23	
+R16	Measure Arg1:T24 Arg2:T23	
+T26	Ingredient 1543 1554	baking soda
+T27	Unit 1531 1539	teaspoon
+T28	Amount 1529 1530	a
+R17	Measure Arg1:T27 Arg2:T26	
+R18	Quantify Arg1:T28 Arg2:T26	
+T29	Amount 1659 1662	1/2
+T30	Unit 1663 1666	cup
+T31	Ingredient 1670 1677	Xylitol
+R19	Measure Arg1:T30 Arg2:T31	
+R20	Quantify Arg1:T29 Arg2:T31	
+T32	Ingredient 1883 1890	Xylitol
+T33	Unit 1876 1879	cup
+T34	Amount 1871 1875	half
+R21	Measure Arg1:T33 Arg2:T32	
+R22	Quantify Arg1:T34 Arg2:T32	
+T35	Ingredient 2212 2222	egg whites
+T36	Amount 2207 2211	four
+R23	Quantify Arg1:T36 Arg2:T35	
+T37	Ingredient 2298 2302	eggs
+T38	Ingredient 2243 2260	liquid egg whites
+T39	Amount 2387 2390	1/2
+T40	Unit 2391 2394	cup
+T41	Ingredient 2398 2409	almond milk
+R24	Measure Arg1:T40 Arg2:T41	
+R25	Quantify Arg1:T39 Arg2:T41	
+T42	Ingredient 2472 2476	milk
+T43	Ingredient 2492 2501	rice milk
+T44	Ingredient 2542 2553	almond milk
+T45	Amount 2557 2560	1/2
+T46	Unit 2561 2564	cup
+R26	Quantify Arg1:T45 Arg2:T44	
+R27	Measure Arg1:T46 Arg2:T44	
+T47	Ingredient 2627 2647	baby food applesauce
+T48	Unit 2614 2619	ounce
+T49	Amount 2612 2613	4
+R28	Measure Arg1:T48 Arg2:T47	
+R29	Quantify Arg1:T49 Arg2:T47	
+T50	Ingredient 2672 2694	unsweetened applesauce
+T51	Amount 2777 2780	1/4
+T52	Unit 2781 2784	cup
+T53	Ingredient 2849 2856	pumpkin
+T54	Ingredient 2895 2902	pumpkin
+T55	Unit 2888 2891	can
+T56	Amount 2871 2872	a
+R30	Quantify Arg1:T56 Arg2:T54	
+R31	Measure Arg1:T55 Arg2:T54	
+T57	Ingredient 3071 3078	pumpkin
+T58	Unit 3194 3203	teaspoons
+T59	Amount 3192 3193	2
+T60	Ingredient 3207 3214	vanilla
+R32	Measure Arg1:T58 Arg2:T60	
+R33	Quantify Arg1:T59 Arg2:T60	
+T61	Ingredient 3441 3445	nuts
+T62	Ingredient 3499 3506	walnuts
+T63	Amount 3494 3498	some
+R34	Quantify Arg1:T63 Arg2:T62	
+T64	Ingredient 3531 3538	pumpkin
+T65	Ingredient 3543 3549	walnut
+T66	Amount 3612 3615	1/2
+T67	Unit 3616 3619	cup
+T68	Ingredient 3623 3630	walnuts
+R35	Measure Arg1:T67 Arg2:T68	
+R36	Quantify Arg1:T66 Arg2:T68	
+T69	Ingredient 4326 4330	nuts
+T70	Ingredient 4558 4562	nuts
+T71	Recipe 6137 6157	Pumpkin Protein Bars
+T72	Amount 995 998	Two
+T73	Unit 999 1003	cups
+R37	Quantify Arg1:T72 Arg2:T5	
+R38	Measure Arg1:T73 Arg2:T5	
+T74	Ingredient 1698 1715	brown sugar blend
+T75	Ingredient 1768 1785	brown sugar blend
+T76	Ingredient 6402 6406	nuts
+R39	Quantify Arg1:T51 Arg2:T50	
+R40	Measure Arg1:T52 Arg2:T50	

@@ -1,0 +1,80 @@
+T1	Recipe 288 303	Thai beef salad
+T9	Amount 1352 1353	a
+T12	Ingredient 1857 1869	red lettuces
+T13	Ingredient 1874 1888	green lettuces
+T14	Ingredient 1937 1942	basil
+T15	Ingredient 1944 1948	mint
+T16	Ingredient 1950 1961	green onion
+T17	Ingredient 1966 1974	cilantro
+T18	Ingredient 2164 2174	lime juice
+T19	Amount 2235 2236	2
+T20	Unit 2237 2248	tablespoons
+T21	Ingredient 2258 2262	lime
+R2	Quantify Arg1:T19 Arg2:T21	
+R3	Measure Arg1:T20 Arg2:T21	
+T22	Amount 2287 2288	1
+T23	Unit 2289 2297	teaspoon
+T24	Ingredient 2301 2321	low-sodium soy sauce
+R4	Quantify Arg1:T22 Arg2:T24	
+R5	Measure Arg1:T23 Arg2:T24	
+T25	Amount 2727 2728	2
+T26	Unit 2729 2738	teaspoons
+T27	Amount 2762 2763	1
+T28	Unit 2764 2772	teaspoon
+T29	Ingredient 2776 2779	soy
+T30	Ingredient 2793 2803	lime juice
+R6	Quantify Arg1:T27 Arg2:T29	
+R7	Measure Arg1:T28 Arg2:T29	
+T31	Ingredient 2416 2426	fish sauce
+R8	Quantify Arg1:T25 Arg2:T31	
+R9	Measure Arg1:T26 Arg2:T31	
+T32	Ingredient 3047 3063	lemongrass paste
+T33	Amount 3131 3135	half
+T34	Unit 3138 3146	teaspoon
+R10	Quantify Arg1:T33 Arg2:T32	
+R11	Measure Arg1:T34 Arg2:T32	
+T35	Ingredient 3388 3394	Stevia
+T36	Ingredient 3695 3701	Stevia
+T37	Amount 3739 3743	half
+T38	Unit 3746 3754	teaspoon
+R12	Quantify Arg1:T37 Arg2:T36	
+R13	Measure Arg1:T38 Arg2:T36	
+T39	Ingredient 3918 3930	green onions
+T40	Ingredient 4431 4436	steak
+T41	Ingredient 4392 4396	mint
+T42	Ingredient 4405 4410	basil
+T43	Ingredient 4254 4259	steak
+T44	Amount 4582 4586	some
+T45	Ingredient 4587 4603	red chili flakes
+R14	Quantify Arg1:T44 Arg2:T45	
+T47	Ingredient 4748 4756	cilantro
+T48	Recipe 4883 4904	Thai beef steak salad
+T2	Amount 1254 1255	a
+T3	Ingredient 1261 1266	steak
+R16	Quantify Arg1:T2 Arg2:T3	
+T4	Ingredient 1360 1365	steak
+R1	Quantify Arg1:T9 Arg2:T4	
+T5	Amount 2719 2720	-
+R17	Quantify Arg1:T5 Arg2:T31	
+T6	Ingredient 2847 2857	lemongrass
+T7	Ingredient 2885 2895	lemongrass
+T8	Ingredient 3279 3284	sugar
+T10	Ingredient 3288 3293	honey
+T11	Ingredient 3297 3302	agave
+T49	Amount 3263 3264	a
+T50	Unit 3272 3275	bit
+R18	Quantify Arg1:T49 Arg2:T8	
+R19	Quantify Arg1:T49 Arg2:T10	
+R20	Quantify Arg1:T49 Arg2:T11	
+R21	Measure Arg1:T50 Arg2:T8	
+R22	Measure Arg1:T50 Arg2:T10	
+R23	Measure Arg1:T50 Arg2:T11	
+T51	Ingredient 3508 3513	honey
+T52	Ingredient 3525 3530	agave
+T53	Ingredient 3532 3543	brown sugar
+T54	Ingredient 3853 3863	lemongrass
+T55	Ingredient 4114 4119	steak
+T46	Amount 4732 4733	a
+T56	Unit 4741 4744	bit
+R15	Measure Arg1:T56 Arg2:T47	
+R24	Quantify Arg1:T46 Arg2:T47	

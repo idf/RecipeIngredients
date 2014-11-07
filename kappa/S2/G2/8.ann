@@ -1,0 +1,94 @@
+T1	Recipe 285 295	Fish Tacos
+T2	Recipe 354 364	Fish Tacos
+T3	Recipe 744 753	Fish Taco
+T4	Ingredient 889 902	green cabbage
+T5	Ingredient 928 939	white onion
+T6	Ingredient 962 968	jicama
+T7	Amount 884 888	some
+T8	Amount 923 927	some
+T9	Amount 957 961	some
+R1	Quantify Arg1:T7 Arg2:T4	
+R2	Quantify Arg1:T8 Arg2:T5	
+R3	Quantify Arg1:T9 Arg2:T6	
+T10	Ingredient 1202 1206	salt
+T11	Amount 1197 1201	some
+R4	Quantify Arg1:T11 Arg2:T10	
+T12	Ingredient 1288 1292	salt
+T13	Ingredient 1297 1307	lime juice
+T14	Ingredient 1342 1349	cabbage
+T15	Amount 1614 1615	a
+T16	Unit 1616 1624	teaspoon
+T17	Ingredient 1628 1632	salt
+R5	Quantify Arg1:T15 Arg2:T17	
+R6	Measure Arg1:T16 Arg2:T17	
+T18	Amount 1899 1903	some
+T19	Ingredient 1904 1914	lime juice
+R7	Quantify Arg1:T18 Arg2:T19	
+T20	Ingredient 1994 2005	lemon juice
+T21	Amount 1989 1993	some
+R8	Quantify Arg1:T21 Arg2:T20	
+T22	Amount 2146 2149	two
+T23	Unit 2150 2161	tablespoons
+T24	Ingredient 2062 2067	juice
+R9	Quantify Arg1:T22 Arg2:T24	
+R10	Measure Arg1:T23 Arg2:T24	
+T25	Ingredient 2253 2261	cilantro
+T26	Amount 2248 2252	some
+R11	Quantify Arg1:T26 Arg2:T25	
+T27	Ingredient 2352 2360	cilantro
+T28	Ingredient 2504 2511	cabbage
+T29	Ingredient 2879 2889	mayonnaise
+T30	Amount 2917 2921	some
+T31	Ingredient 2922 2945	minced chipotle peppers
+R12	Quantify Arg1:T30 Arg2:T31	
+T32	Ingredient 2954 2962	chipotle
+T33	Ingredient 2967 2972	adobo
+T34	Ingredient 3120 3143	smoked jalapeno peppers
+T35	Amount 3379 3390	half of one
+T36	Unit 3577 3587	tablespoon
+T37	Amount 3575 3576	a
+T38	Ingredient 3591 3599	chipotle
+R13	Quantify Arg1:T37 Arg2:T38	
+R14	Measure Arg1:T36 Arg2:T38	
+T39	Amount 3785 3789	some
+T40	Ingredient 3790 3800	lime juice
+R15	Quantify Arg1:T39 Arg2:T40	
+T41	Amount 3815 3816	a
+T42	Unit 3817 3827	tablespoon
+R16	Quantify Arg1:T41 Arg2:T40	
+R17	Measure Arg1:T42 Arg2:T40	
+T43	Amount 3862 3874	a little bit
+T44	Ingredient 3878 3890	malt vinegar
+T45	Amount 4043 4047	some
+T46	Ingredient 4053 4063	lime juice
+R18	Quantify Arg1:T45 Arg2:T46	
+R19	Quantify Arg1:T43 Arg2:T44	
+T47	Ingredient 4237 4244	vinegar
+T48	Ingredient 4253 4263	lime juice
+T49	Ingredient 4299 4307	chipotle
+T50	Amount 4738 4742	some
+T51	Ingredient 4743 4754	cumin seeds
+T52	Amount 4759 4763	some
+T53	Ingredient 4764 4769	anise
+R20	Quantify Arg1:T50 Arg2:T51	
+R21	Quantify Arg1:T52 Arg2:T53	
+T54	Ingredient 4813 4823	anise seed
+T55	Amount 5016 5020	some
+T56	Ingredient 5021 5033	chili powder
+R22	Quantify Arg1:T55 Arg2:T56	
+T57	Ingredient 5054 5066	chili powder
+T58	Ingredient 5628 5640	chili powder
+T59	Ingredient 5675 5679	salt
+T60	Ingredient 5684 5690	pepper
+T61	Ingredient 5716 5720	salt
+T62	Ingredient 5725 5731	pepper
+T63	Ingredient 5855 5863	cornmeal
+T64	Ingredient 6003 6011	cornmeal
+T65	Amount 6322 6326	some
+T66	Ingredient 6327 6339	wild snapper
+R23	Quantify Arg1:T65 Arg2:T66	
+T67	Amount 7352 7356	some
+T68	Ingredient 7357 7360	oil
+R24	Quantify Arg1:T67 Arg2:T68	
+T69	Recipe 8710 8719	Fish Taco
+T70	Recipe 8668 8677	Fish Taco

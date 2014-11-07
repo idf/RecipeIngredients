@@ -1,0 +1,82 @@
+T2	Recipe 284 302	spicy potato salad
+T3	Recipe 593 605	potato salad
+T4	Amount 615 619	some
+T5	Ingredient 620 628	potatoes
+T6	Ingredient 804 814	mayonnaise
+T7	Amount 799 803	some
+R1	Quantify Arg1:T4 Arg2:T5	
+R2	Quantify Arg1:T7 Arg2:T6	
+T8	Ingredient 853 863	mayonnaise
+T9	Ingredient 876 886	sour cream
+T10	Amount 909 913	some
+T11	Ingredient 914 933	apple cider vinegar
+R3	Quantify Arg1:T10 Arg2:T11	
+T12	Ingredient 1150 1159	olive oil
+T13	Ingredient 1169 1176	mustard
+T14	Amount 1164 1168	some
+T15	Amount 1134 1135	A
+R4	Quantify Arg1:T15 Arg2:T12	
+R5	Quantify Arg1:T14 Arg2:T13	
+T16	Ingredient 1203 1210	mustard
+T17	Ingredient 1426 1444	brown deli mustard
+T18	Amount 1486 1487	a
+T19	Unit 1488 1498	tablespoon
+T20	Ingredient 1558 1570	chili powder
+T21	Amount 1553 1557	some
+R8	Quantify Arg1:T21 Arg2:T20	
+T22	Ingredient 1607 1619	chili powder
+T23	Ingredient 1791 1798	cayenne
+T24	Amount 1775 1776	a
+R9	Quantify Arg1:T24 Arg2:T23	
+T25	Ingredient 1888 1900	black pepper
+T26	Amount 1883 1887	Some
+R10	Quantify Arg1:T26 Arg2:T25	
+T27	Ingredient 1937 1944	peppers
+T28	Ingredient 1976 1980	salt
+T29	Amount 1971 1975	Some
+R11	Quantify Arg1:T29 Arg2:T28	
+T30	Ingredient 2070 2078	potatoes
+T31	Ingredient 2098 2121	red fingerling potatoes
+T32	Amount 2093 2097	some
+R12	Quantify Arg1:T32 Arg2:T31	
+T33	Ingredient 2217 2233	red new potatoes
+T34	Amount 2212 2216	some
+R13	Quantify Arg1:T34 Arg2:T33	
+T35	Amount 2266 2270	some
+T36	Ingredient 2271 2285	white potatoes
+R14	Quantify Arg1:T35 Arg2:T36	
+T37	Ingredient 2674 2680	celery
+T38	Amount 2669 2673	some
+R15	Quantify Arg1:T38 Arg2:T37	
+T39	Ingredient 2857 2866	red onion
+T40	Amount 2852 2856	some
+R16	Quantify Arg1:T40 Arg2:T39	
+T42	Ingredient 3034 3049	red bell pepper
+T43	Amount 3023 3027	Some
+R17	Quantify Arg1:T43 Arg2:T42	
+T44	Ingredient 3065 3081	peppadew peppers
+T45	Ingredient 3463 3477	cherry peppers
+T46	Amount 3458 3462	some
+R18	Quantify Arg1:T46 Arg2:T45	
+T47	Ingredient 3601 3614	red jalapenos
+T48	Recipe 3814 3826	potato salad
+T49	Ingredient 3860 3867	vinegar
+T50	Recipe 3998 4016	spicy potato salad
+T1	Recipe 251 263	potato salad
+T51	Unit 1143 1146	bit
+R19	Measure Arg1:T51 Arg2:T12	
+R6	Measure Arg1:T19 Arg2:T16	
+R7	Quantify Arg1:T18 Arg2:T16	
+T52	Unit 1784 1787	bit
+R20	Measure Arg1:T52 Arg2:T23	
+T53	Ingredient 2467 2475	potatoes
+T54	Ingredient 2515 2523	potatoes
+T55	Ingredient 2637 2645	potatoes
+T56	Ingredient 2923 2933	vegetables
+T41	Ingredient 3098 3112	cherry peppers
+T57	Ingredient 3932 3937	meats
+T58	Ingredient 3906 3911	meats
+T59	Ingredient 3943 3955	beef brisket
+T60	Ingredient 3959 3963	lamb
+T61	Recipe 4277 4289	potato salad
+T62	Ingredient 966 974	vinegars

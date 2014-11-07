@@ -1,0 +1,53 @@
+T1	Recipe 248 265	Ro-Tel Cheese Dip
+T2	Ingredient 457 472	Velveeta cheese
+T3	Amount 492 493	a
+T4	Unit 494 497	can
+T5	Ingredient 501 516	Ro-Tel tomatoes
+R1	Quantify Arg1:T3 Arg2:T5	
+R2	Measure Arg1:T4 Arg2:T5	
+T6	Ingredient 611 626	Ro-Tel tomatoes
+T7	Ingredient 581 596	Velveeta cheese
+T12	Recipe 1147 1164	Ro-Tel Cheese Dip
+T13	Ingredient 1246 1253	sausage
+T14	Recipe 1227 1244	Ro-Tel cheese dip
+T15	Amount 1281 1282	a
+T16	Unit 1283 1288	pound
+T17	Ingredient 1292 1299	sausage
+T18	Amount 1543 1546	one
+T19	Ingredient 1556 1564	Velveeta
+T20	Unit 1547 1552	pound
+T21	Amount 1568 1571	two
+T22	Unit 1572 1576	cans
+T23	Ingredient 1580 1586	Ro-Tel
+T24	Ingredient 1606 1616	sour cream
+T25	Ingredient 1618 1630	cream cheese
+T26	Ingredient 1684 1691	sausage
+T27	Ingredient 1709 1716	sausage
+T28	Ingredient 1875 1888	garlic powder
+T29	Ingredient 1977 1993	pickled jalapeno
+T30	Ingredient 2231 2252	jalapeno pickle juice
+R3	Quantify Arg1:T15 Arg2:T17	
+R4	Measure Arg1:T16 Arg2:T17	
+R5	Quantify Arg1:T18 Arg2:T19	
+R6	Measure Arg1:T20 Arg2:T19	
+R7	Quantify Arg1:T21 Arg2:T23	
+R8	Measure Arg1:T22 Arg2:T23	
+T8	Amount 568 571	one
+T9	Unit 572 577	pound
+R9	Quantify Arg1:T8 Arg2:T7	
+R10	Measure Arg1:T9 Arg2:T7	
+T10	Amount 600 603	one
+T11	Unit 604 607	can
+R11	Quantify Arg1:T10 Arg2:T6	
+R12	Measure Arg1:T11 Arg2:T6	
+T31	Recipe 905 915	Ro-Tel dip
+T32	Ingredient 1382 1394	cheese sauce
+T33	Recipe 1520 1530	Ro-Tel dip
+T34	Amount 1859 1860	A
+T35	Unit 1868 1871	bit
+R13	Quantify Arg1:T34 Arg2:T28	
+R14	Measure Arg1:T35 Arg2:T28	
+T36	Recipe 2334 2351	Ro-Tel Cheese Dip
+T37	Amount 2218 2222	some
+R15	Quantify Arg1:T37 Arg2:T30	
+T38	Recipe 2158 2168	cheese dip

@@ -1,0 +1,96 @@
+T1	Recipe 432 449	Greek Pasta Salad
+T2	Ingredient 792 797	pasta
+T3	Ingredient 887 892	water
+T4	Amount 876 877	a
+T5	Unit 878 883	quart
+R1	Quantify Arg1:T4 Arg2:T3	
+R2	Measure Arg1:T5 Arg2:T3	
+T6	Amount 1241 1242	a
+T7	Unit 1243 1248	quart
+T8	Ingredient 1252 1257	water
+T9	Amount 1266 1269	two
+T10	Unit 1270 1274	cups
+T11	Ingredient 1278 1283	pasta
+T12	Amount 1287 1290	1/2
+T13	Unit 1293 1298	pound
+R3	Quantify Arg1:T9 Arg2:T11	
+R4	Measure Arg1:T10 Arg2:T11	
+R5	Quantify Arg1:T12 Arg2:T11	
+R6	Measure Arg1:T13 Arg2:T11	
+R7	Measure Arg1:T7 Arg2:T8	
+R8	Quantify Arg1:T6 Arg2:T8	
+T14	Ingredient 1429 1434	pasta
+T15	Ingredient 1539 1544	pasta
+T16	Ingredient 2017 2022	pasta
+T17	Ingredient 2200 2211	green beans
+T18	Ingredient 2437 2448	green beans
+T19	Ingredient 2703 2708	pasta
+T20	Ingredient 2713 2724	green beans
+T21	Ingredient 2803 2814	green beans
+T22	Ingredient 2827 2832	pasta
+T23	Ingredient 2884 2889	pasta
+T24	Ingredient 2898 2909	green beans
+T25	Ingredient 3212 3219	parsley
+T26	Ingredient 3499 3514	Kalamata olives
+T27	Ingredient 3548 3561	sweet peppers
+T28	Ingredient 3571 3579	tomatoes
+T29	Ingredient 3624 3639	Kalamata olives
+T30	Ingredient 3941 3947	garlic
+T31	Amount 3930 3931	a
+T32	Unit 3932 3937	clove
+R9	Measure Arg1:T32 Arg2:T30	
+R10	Quantify Arg1:T31 Arg2:T30	
+T33	Ingredient 4016 4022	garlic
+T34	Ingredient 4096 4102	garlic
+T35	Ingredient 4137 4145	olive oi
+T36	Ingredient 4212 4230	white wine vinegar
+T37	Unit 4161 4172	tablespoons
+T38	Amount 4157 4160	two
+R11	Measure Arg1:T37 Arg2:T35	
+R12	Quantify Arg1:T38 Arg2:T35	
+T39	Ingredient 4247 4263	red wine vinegar
+T40	Ingredient 4280 4293	cider vinegar
+T41	Amount 4318 4326	a couple
+T42	Unit 4330 4341	tablespoons
+R13	Quantify Arg1:T41 Arg2:T36	
+R14	Measure Arg1:T42 Arg2:T36	
+T44	Ingredient 4674 4686	black pepper
+T45	Ingredient 4706 4710	salt
+T46	Ingredient 4742 4749	oregano
+T47	Amount 4802 4803	a
+T48	Unit 4810 4818	teaspoon
+R15	Quantify Arg1:T47 Arg2:T46	
+R16	Measure Arg1:T48 Arg2:T46	
+T49	Ingredient 4868 4873	pasta
+T50	Ingredient 5100 5109	Cucumbers
+T51	Ingredient 5130 5139	Red onion
+T52	Recipe 5226 5237	pasta salad
+T43	Ingredient 5797 5812	parmesan cheese
+T53	Ingredient 5850 5861	feta cheese
+T54	Amount 5885 5891	couple
+T55	Unit 5895 5906	tablespoons
+R17	Measure Arg1:T55 Arg2:T53	
+R18	Quantify Arg1:T54 Arg2:T53	
+T56	Amount 787 791	some
+R19	Quantify Arg1:T56 Arg2:T2	
+T57	Ingredient 1672 1676	salt
+T58	Amount 1667 1671	some
+R20	Quantify Arg1:T58 Arg2:T57	
+T59	Amount 3543 3547	some
+R21	Quantify Arg1:T59 Arg2:T27	
+T60	Amount 3566 3570	some
+R22	Quantify Arg1:T60 Arg2:T28	
+T61	Amount 3494 3498	some
+R23	Quantify Arg1:T61 Arg2:T26	
+T62	Amount 4207 4211	some
+T63	Amount 4701 4705	some
+T64	Amount 5792 5796	some
+R24	Quantify Arg1:T64 Arg2:T43	
+R25	Quantify Arg1:T63 Arg2:T45	
+T65	Amount 4669 4673	some
+R26	Quantify Arg1:T65 Arg2:T44	
+T66	Amount 4737 4741	some
+R27	Quantify Arg1:T66 Arg2:T46	
+T67	Amount 5836 5840	some
+R28	Quantify Arg1:T67 Arg2:T53	
+R29	Quantify Arg1:T62 Arg2:T36	

@@ -1,0 +1,83 @@
+T1	Recipe 283 298	Thai beef salad
+T2	Recipe 555 565	Thai salad
+T3	Ingredient 1241 1251	lean steak
+T4	Amount 1239 1240	a
+R1	Quantify Arg1:T4 Arg2:T3	
+T5	Ingredient 1276 1283	sirloin
+T6	Ingredient 1337 1348	flank steak
+T7	Amount 1335 1336	a
+R2	Quantify Arg1:T7 Arg2:T6	
+T8	Amount 1755 1756	4
+T9	Unit 1757 1763	ounces
+T10	Ingredient 1833 1845	red lettuces
+T11	Ingredient 1850 1864	green lettuces
+T12	Ingredient 1912 1917	basil
+T13	Ingredient 1919 1923	mint
+T14	Ingredient 1925 1936	green onion
+T15	Ingredient 1941 1949	cilantro
+T16	Ingredient 2137 2147	lime juice
+T17	Amount 2207 2208	2
+T18	Unit 2209 2220	tablespoons
+T19	Ingredient 2230 2234	lime
+R3	Measure Arg1:T18 Arg2:T19	
+R4	Quantify Arg1:T17 Arg2:T19	
+T20	Ingredient 2272 2292	low-sodium soy sauce
+T21	Unit 2260 2268	teaspoon
+T22	Amount 2258 2259	1
+R5	Measure Arg1:T21 Arg2:T20	
+R6	Quantify Arg1:T22 Arg2:T20	
+T23	Ingredient 2384 2394	fish sauce
+T24	Amount 2692 2693	2
+T25	Unit 2694 2703	teaspoons
+T26	Amount 2727 2728	1
+T27	Unit 2729 2737	teaspoon
+T28	Ingredient 2741 2744	soy
+R7	Measure Arg1:T27 Arg2:T28	
+R8	Quantify Arg1:T26 Arg2:T28	
+T29	Ingredient 2758 2768	lime juice
+T30	Ingredient 2811 2821	lemongrass
+T31	Ingredient 2848 2858	lemongrass
+T32	Ingredient 3009 3025	lemongrass paste
+T33	Unit 3099 3107	teaspoon
+T34	Amount 3092 3096	half
+R9	Measure Arg1:T33 Arg2:T32	
+R10	Quantify Arg1:T34 Arg2:T32	
+T35	Ingredient 3239 3244	sugar
+T36	Ingredient 3248 3253	honey
+T37	Ingredient 3257 3262	agave
+T38	Unit 3232 3235	bit
+T39	Amount 3223 3224	a
+R11	Quantify Arg1:T39 Arg2:T35	
+R12	Quantify Arg1:T39 Arg2:T36	
+R13	Quantify Arg1:T39 Arg2:T37	
+R14	Measure Arg1:T38 Arg2:T35	
+R15	Measure Arg1:T38 Arg2:T36	
+R16	Measure Arg1:T38 Arg2:T37	
+T40	Ingredient 3347 3353	Stevia
+T41	Ingredient 3467 3472	honey
+T42	Ingredient 3484 3489	agave
+T43	Ingredient 3491 3502	brown sugar
+T44	Ingredient 3653 3659	Stevia
+T45	Unit 3703 3711	teaspoon
+T46	Amount 3696 3700	half
+R17	Quantify Arg1:T46 Arg2:T44	
+R18	Measure Arg1:T45 Arg2:T44	
+T47	Ingredient 3809 3819	lemongrass
+T48	Ingredient 3873 3885	green onions
+T49	Ingredient 4204 4209	steak
+T50	Ingredient 4066 4071	steak
+T51	Ingredient 4380 4385	steak
+T52	Ingredient 4354 4359	basil
+T53	Ingredient 4341 4345	mint
+T54	Ingredient 4533 4549	red chili flakes
+T55	Amount 4528 4532	some
+R19	Quantify Arg1:T55 Arg2:T54	
+T56	Ingredient 4575 4586	Chili paste
+T57	Ingredient 4692 4700	cilantro
+T58	Unit 4685 4688	bit
+T59	Amount 4676 4677	a
+R20	Measure Arg1:T58 Arg2:T57	
+R21	Quantify Arg1:T59 Arg2:T57	
+T60	Recipe 4824 4845	Thai beef steak salad
+R22	Quantify Arg1:T24 Arg2:T23	
+R23	Measure Arg1:T25 Arg2:T23	

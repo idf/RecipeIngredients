@@ -1,0 +1,107 @@
+T1	Recipe 301 331	lettuce-wrapped turkey muffins
+T2	Ingredient 1194 1201	veggies
+T3	Ingredient 1242 1249	spinach
+T4	Amount 1237 1241	some
+R1	Quantify Arg1:T4 Arg2:T3	
+T5	Amount 1251 1255	some
+T6	Ingredient 1256 1267	bell pepper
+R2	Quantify Arg1:T5 Arg2:T6	
+T7	Amount 1272 1276	some
+T8	Ingredient 1277 1283	onions
+R3	Quantify Arg1:T7 Arg2:T8	
+T9	Ingredient 1462 1469	veggies
+T10	Ingredient 1507 1520	ground turkey
+T11	Amount 1543 1546	one
+T12	Ingredient 1547 1556	egg white
+R4	Quantify Arg1:T11 Arg2:T12	
+T13	Ingredient 1570 1580	seasonings
+T14	Ingredient 1612 1625	liquid aminos
+T15	Ingredient 1697 1707	seasonings
+T16	Ingredient 1717 1723	garlic
+T17	Ingredient 1725 1731	ginger
+T18	Amount 1741 1742	a
+T19	Unit 1750 1753	bit
+T20	Ingredient 1757 1765	sea salt
+T21	Ingredient 1770 1784	cracked pepper
+R5	Quantify Arg1:T18 Arg2:T20	
+R6	Measure Arg1:T19 Arg2:T20	
+R7	Quantify Arg1:T18 Arg2:T21	
+R8	Measure Arg1:T19 Arg2:T21	
+T22	Ingredient 1333 1337	herb
+T23	Amount 1325 1326	a
+R9	Quantify Arg1:T23 Arg2:T22	
+T24	Ingredient 1431 1439	cilantro
+T25	Amount 1420 1424	some
+R10	Quantify Arg1:T25 Arg2:T24	
+T26	Amount 1811 1815	some
+T27	Ingredient 1816 1829	cooking spray
+R11	Quantify Arg1:T26 Arg2:T27	
+T28	Ingredient 1918 1931	turkey burger
+T29	Ingredient 1935 1949	turkey muffins
+T30	Amount 1858 1862	some
+T31	Ingredient 1863 1885	romaine lettuce leaves
+R12	Quantify Arg1:T30 Arg2:T31	
+T32	Ingredient 2011 2017	turkey
+T33	Amount 2375 2379	some
+T34	Ingredient 2380 2391	green onion
+R13	Quantify Arg1:T33 Arg2:T34	
+T35	Amount 2467 2471	some
+T36	Ingredient 2472 2484	chili flakes
+R14	Quantify Arg1:T35 Arg2:T36	
+T37	Ingredient 2657 2667	brown rice
+T38	Ingredient 2756 2778	romaine lettuce leaves
+T39	Amount 2835 2839	some
+T40	Ingredient 2840 2847	mustard
+R15	Quantify Arg1:T39 Arg2:T40	
+T41	Ingredient 2869 2883	barbecue sauce
+R16	Quantify Arg1:T39 Arg2:T41	
+T42	Amount 2940 2943	one
+T43	Ingredient 2944 2953	egg white
+R17	Quantify Arg1:T42 Arg2:T43	
+T44	Amount 2968 2972	some
+T45	Ingredient 2973 2987	turkey muffins
+R18	Quantify Arg1:T44 Arg2:T45	
+T46	Ingredient 3002 3014	quinoa flour
+T47	Ingredient 3018 3027	out flour
+T48	Ingredient 3153 3162	egg white
+T49	Ingredient 3164 3170	turkey
+T50	Ingredient 3175 3182	veggies
+T51	Amount 3318 3319	1
+T52	Unit 3320 3328	teaspoon
+R19	Quantify Arg1:T51 Arg2:T48	
+R20	Quantify Arg1:T51 Arg2:T49	
+R21	Quantify Arg1:T51 Arg2:T50	
+R22	Measure Arg1:T52 Arg2:T48	
+R23	Measure Arg1:T52 Arg2:T49	
+R24	Measure Arg1:T52 Arg2:T50	
+T53	Ingredient 3425 3438	liquid aminos
+T54	Amount 3471 3472	1
+T55	Unit 3473 3481	teaspoon
+R25	Quantify Arg1:T54 Arg2:T53	
+R26	Measure Arg1:T55 Arg2:T53	
+T56	Ingredient 4022 4041	butter leaf lettuce
+T57	Amount 4694 4700	3 to 4
+T58	Unit 4701 4707	ounces
+T59	Ingredient 4711 4718	protein
+R27	Quantify Arg1:T57 Arg2:T59	
+R28	Measure Arg1:T58 Arg2:T59	
+T60	Ingredient 4791 4798	veggies
+T61	Recipe 4941 4955	turkey muffins
+T62	Recipe 5448 5462	turkey muffins
+T63	Ingredient 5612 5634	romaine lettuce hearts
+T64	Amount 5776 5780	some
+T65	Ingredient 5787 5794	mustard
+R29	Quantify Arg1:T64 Arg2:T65	
+T66	Amount 5860 5864	some
+T67	Ingredient 5865 5872	avocado
+R30	Quantify Arg1:T66 Arg2:T67	
+T68	Ingredient 6037 6044	avocado
+T69	Amount 6098 6102	some
+T70	Ingredient 6109 6116	mustard
+R31	Quantify Arg1:T69 Arg2:T70	
+T71	Ingredient 6121 6128	avocado
+R32	Quantify Arg1:T69 Arg2:T71	
+T72	Ingredient 6183 6197	barbecue sauce
+T73	Amount 6203 6207	Some
+T74	Ingredient 6218 6225	ketchup
+R33	Quantify Arg1:T73 Arg2:T74	

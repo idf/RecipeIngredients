@@ -1,0 +1,116 @@
+T1	Recipe 341 374	Death-by-Garlic Roasted Asparagus
+T2	Ingredient 681 690	asparagus
+T3	Ingredient 716 725	asparagus
+T4	Amount 705 706	1
+T5	Unit 707 712	pound
+R1	Quantify Arg1:T4 Arg2:T3	
+R2	Measure Arg1:T5 Arg2:T3	
+T6	Ingredient 782 791	asparagus
+T7	Ingredient 827 836	asparagus
+T8	Ingredient 936 942	garlic
+T9	Amount 947 951	some
+T10	Ingredient 952 958	garlic
+R3	Quantify Arg1:T9 Arg2:T10	
+T11	Ingredient 1096 1108	garlic clove
+T12	Ingredient 1152 1165	garlic powder
+T13	Ingredient 1202 1215	garlic powder
+T15	Ingredient 1375 1388	garlic powder
+T14	Ingredient 1446 1468	extra virgin olive oil
+T16	Amount 1494 1495	1
+T17	Unit 1496 1506	tablespoon
+R4	Quantify Arg1:T16 Arg2:T14	
+R5	Measure Arg1:T17 Arg2:T14	
+T18	Ingredient 1555 1561	pepper
+T19	Ingredient 1657 1669	black pepper
+T20	Ingredient 9325 9334	asparagus
+T21	Ingredient 9439 9448	asparagus
+T22	Ingredient 2191 2200	asparagus
+T23	Ingredient 2680 2689	asparagus
+T24	Ingredient 2745 2754	asparagus
+T25	Ingredient 3647 3660	garlic cloves
+T26	Ingredient 2810 2816	garlic
+T27	Amount 3643 3646	six
+R6	Quantify Arg1:T27 Arg2:T25	
+T28	Ingredient 2824 2830	garlic
+T29	Ingredient 3109 3122	garlic cloves
+T30	Ingredient 3194 3207	garlic cloves
+T33	Ingredient 3287 3293	garlic
+T34	Amount 3278 3283	a lot
+R9	Quantify Arg1:T34 Arg2:T33	
+T35	Ingredient 3805 3817	garlic clove
+T36	Ingredient 4257 4266	asparagus
+T37	Ingredient 4298 4307	asparagus
+T38	Ingredient 3984 3990	garlic
+T39	Ingredient 4362 4371	asparagus
+T40	Ingredient 4573 4582	asparagus
+T41	Ingredient 4729 4738	asparagus
+T42	Ingredient 4517 4526	asparagus
+T43	Ingredient 5234 5240	garlic
+T44	Ingredient 6062 6071	olive oil
+T45	Amount 6046 6047	1
+T46	Unit 6048 6058	tablespoon
+T47	Ingredient 6015 6024	olive oil
+R10	Measure Arg1:T46 Arg2:T44	
+R11	Quantify Arg1:T45 Arg2:T44	
+T48	Ingredient 6170 6179	olive oil
+T49	Amount 6156 6157	a
+T50	Unit 6158 6166	teaspoon
+R12	Measure Arg1:T50 Arg2:T48	
+R13	Quantify Arg1:T49 Arg2:T48	
+T51	Ingredient 9270 9279	asparagus
+T52	Ingredient 8888 8897	asparagus
+T53	Ingredient 6660 6669	asparagus
+T54	Ingredient 6567 6576	olive oil
+T55	Ingredient 9039 9045	garlic
+T56	Ingredient 6726 6739	garlic powder
+T57	Ingredient 6803 6816	garlic powder
+T58	Ingredient 8828 8837	asparagus
+T59	Ingredient 8518 8527	asparagus
+T60	Recipe 7181 7206	Death-by-Garlic Asparagus
+T61	Ingredient 7350 7354	salt
+T63	Ingredient 7359 7365	pepper
+T64	Ingredient 7277 7283	garlic
+T65	Ingredient 7312 7318	garlic
+T66	Ingredient 7411 7417	pepper
+T67	Ingredient 7570 7582	black pepper
+T68	Amount 7487 7488	a
+T69	Unit 7489 7497	teaspoon
+T70	Amount 7505 7506	2
+T71	Unit 7507 7516	teaspoons
+R14	Measure Arg1:T71 Arg2:T66	
+R15	Measure Arg1:T69 Arg2:T66	
+R16	Quantify Arg1:T70 Arg2:T66	
+R17	Quantify Arg1:T68 Arg2:T66	
+T62	Ingredient 7823 7832	asparagus
+T72	Ingredient 7755 7761	garlic
+T74	Ingredient 2331 2340	asparagus
+T76	Ingredient 8145 8151	garlic
+T75	Amount 822 826	some
+R18	Quantify Arg1:T75 Arg2:T7	
+T77	Ingredient 1003 1009	garlic
+T78	Amount 777 781	some
+R19	Quantify Arg1:T78 Arg2:T6	
+T79	Amount 1550 1554	some
+R20	Quantify Arg1:T79 Arg2:T18	
+T80	Amount 1524 1525	a
+T81	Unit 1533 1536	bit
+R21	Quantify Arg1:T80 Arg2:T14	
+T82	Unit 2182 2187	bunch
+R22	Measure Arg1:T81 Arg2:T14	
+R23	Measure Arg1:T82 Arg2:T22	
+T84	Ingredient 3240 3246	garlic
+T85	Amount 3318 3321	six
+T86	Amount 3396 3400	four
+R24	Quantify Arg1:T85 Arg2:T33	
+T87	Ingredient 3344 3350	garlic
+R25	Quantify Arg1:T86 Arg2:T87	
+T31	Amount 3182 3193	four to six
+R7	Quantify Arg1:T31 Arg2:T30	
+T83	Ingredient 5742 5748	garlic
+T32	Unit 5733 5738	chunk
+T88	Amount 5723 5724	a
+R8	Quantify Arg1:T88 Arg2:T83	
+R26	Measure Arg1:T32 Arg2:T83	
+T89	Ingredient 6270 6279	olive oil
+T90	Amount 4724 4728	some
+R27	Quantify Arg1:T90 Arg2:T41	

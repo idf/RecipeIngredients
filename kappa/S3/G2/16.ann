@@ -1,0 +1,48 @@
+T1	Recipe 255 274	Frozen Spinach Cups
+T3	Ingredient 900 907	spinach
+T2	Amount 936 937	6
+T4	Amount 944 945	8
+T5	Unit 946 951	ounce
+T6	Amount 1023 1026	one
+T7	Unit 1027 1030	bag
+T8	Ingredient 1034 1041	spinach
+R1	Quantify Arg1:T6 Arg2:T8	
+R2	Measure Arg1:T7 Arg2:T8	
+T9	Amount 1083 1084	2
+T10	Unit 1085 1089	cups
+T11	Ingredient 1056 1061	water
+T12	Ingredient 1093 1098	water
+R3	Quantify Arg1:T9 Arg2:T12	
+R4	Measure Arg1:T10 Arg2:T12	
+T15	Ingredient 1177 1184	spinach
+T16	Ingredient 1204 1209	water
+T22	Ingredient 1770 1777	spinach
+T23	Ingredient 1803 1808	water
+T24	Amount 1851 1852	1
+T25	Unit 1853 1856	cup
+T26	Ingredient 1902 1907	water
+T27	Ingredient 2126 2133	spinach
+T28	Ingredient 2178 2185	spinach
+T35	Ingredient 3766 3771	water
+T37	Ingredient 4773 4796	unsweetened almond milk
+T38	Ingredient 4951 4963	almond milks
+T40	Ingredient 5105 5110	water
+T41	Ingredient 5114 5126	regular milk
+T42	Amount 5152 5153	8
+T43	Unit 5154 5160	ounces
+R9	Quantify Arg1:T42 Arg2:T38	
+R10	Measure Arg1:T43 Arg2:T38	
+R11	Quantify Arg1:T4 Arg2:T3	
+R12	Quantify Arg1:T2 Arg2:T3	
+R13	Measure Arg1:T5 Arg2:T3	
+R5	Quantify Arg1:T24 Arg2:T26	
+R6	Measure Arg1:T25 Arg2:T26	
+T14	Ingredient 1565 1572	spinach
+T13	Amount 3757 3761	some
+R7	Quantify Arg1:T13 Arg2:T35	
+T17	Amount 5720 5724	some
+T18	Ingredient 5725 5736	blueberries
+R8	Quantify Arg1:T17 Arg2:T18	
+T19	Amount 5846 5850	some
+T20	Ingredient 5858 5859	r
+R14	Quantify Arg1:T19 Arg2:T20	

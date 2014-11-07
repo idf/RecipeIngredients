@@ -1,0 +1,79 @@
+T1	Recipe 255 275	Soufflé à la vanille
+T2	Recipe 278 293	vanilla Soufflé
+T3	Amount 642 643	1
+T4	Unit 644 654	tablespoon
+T5	Ingredient 658 673	unsalted butter
+T6	Amount 675 677	14
+T7	Amount 681 682	1
+T8	Unit 683 693	tablespoon
+T9	Ingredient 697 714	all-purpose flour
+T10	Amount 717 719	10
+T11	Amount 723 727	1 /2
+T12	Unit 728 731	cup
+T13	Ingredient 735 739	milk
+T14	Amount 741 744	120
+T15	Amount 750 753	1/2
+T16	Unit 754 762	teaspoon
+T17	Ingredient 771 786	vanilla extract
+T18	Amount 788 789	2
+T19	Unit 790 801	tablespoons
+T20	Ingredient 805 817	caster sugar
+T21	Amount 819 821	30
+T22	Amount 825 826	2
+T23	Ingredient 827 831	eggs
+T24	Amount 837 838	a
+T25	Ingredient 848 852	salt
+R1	Quantify Arg1:T3 Arg2:T5	
+R2	Measure Arg1:T4 Arg2:T5	
+R3	Quantify Arg1:T6 Arg2:T5	
+R4	Quantify Arg1:T7 Arg2:T9	
+R5	Measure Arg1:T8 Arg2:T9	
+R6	Quantify Arg1:T10 Arg2:T9	
+R7	Quantify Arg1:T11 Arg2:T13	
+R8	Measure Arg1:T12 Arg2:T13	
+R9	Quantify Arg1:T14 Arg2:T13	
+R10	Quantify Arg1:T15 Arg2:T17	
+R11	Measure Arg1:T16 Arg2:T17	
+T26	Ingredient 870 876	butter
+T27	Ingredient 1120 1126	butter
+T28	Ingredient 1172 1177	flour
+T30	Ingredient 1965 1970	sugar
+T31	Ingredient 2142 2157	French meringue
+T32	Ingredient 2244 2252	meringue
+T35	Ingredient 2548 2568	confectioners' sugar
+T36	Unit 839 844	pinch
+R12	Quantify Arg1:T24 Arg2:T25	
+R13	Measure Arg1:T36 Arg2:T25	
+R14	Quantify Arg1:T22 Arg2:T23	
+R15	Quantify Arg1:T18 Arg2:T20	
+R16	Measure Arg1:T19 Arg2:T20	
+R17	Quantify Arg1:T21 Arg2:T20	
+T37	Ingredient 1011 1023	caster sugar
+T39	Ingredient 1520 1524	salt
+T40	Ingredient 1529 1544	vanilla extract
+T41	Ingredient 1587 1596	egg white
+T42	Ingredient 1601 1609	egg yolk
+T43	Ingredient 1631 1640	egg yolks
+T44	Amount 2125 2134	one third
+R18	Quantify Arg1:T44 Arg2:T31	
+T33	Recipe 2688 2702	French soufflé
+T34	Recipe 299 306	Soufflé
+T45	Recipe 597 604	soufflé
+T47	Recipe 407 414	souffle
+T48	Recipe 442 449	soufflé
+T49	Recipe 466 473	soufflé
+T50	Recipe 523 530	soufflé
+T51	Recipe 972 979	soufflé
+T38	Ingredient 1260 1264	milk
+T52	Ingredient 1309 1313	milk
+T29	Ingredient 1829 1839	egg whites
+T53	Recipe 2388 2395	soufflé
+T54	Recipe 2574 2581	soufflé
+T46	Unit 677 678	g
+R19	Measure Arg1:T46 Arg2:T5	
+T55	Unit 719 720	g
+R20	Measure Arg1:T55 Arg2:T9	
+T56	Unit 745 747	ml
+R21	Measure Arg1:T56 Arg2:T13	
+T57	Unit 821 822	g
+R22	Measure Arg1:T57 Arg2:T20	

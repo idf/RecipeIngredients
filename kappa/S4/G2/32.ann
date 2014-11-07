@@ -1,0 +1,90 @@
+T1	Recipe 244 267	rainbow sushi rice cake
+T2	Ingredient 393 409	short-grain rice
+T3	Ingredient 412 424	rice vinegar
+T4	Ingredient 436 448	sesame seeds
+T5	Ingredient 451 461	mayonnaise
+T6	Ingredient 464 475	canned tuna
+T7	Ingredient 478 482	salt
+T8	Ingredient 484 489	sugar
+T9	Ingredient 491 496	onion
+T10	Ingredient 499 505	pepper
+T11	Ingredient 507 522	red bell pepper
+T12	Ingredient 524 530	carrot
+T13	Ingredient 533 544	boiled eggs
+T14	Ingredient 546 554	broccoli
+T15	Ingredient 560 571	red cabbage
+T17	Ingredient 632 643	canned tuna
+T18	Amount 646 647	1
+T19	Unit 648 658	tablespoon
+T16	Amount 612 613	6
+T20	Unit 614 620	ounces
+R1	Measure Arg1:T20 Arg2:T17	
+R2	Quantify Arg1:T16 Arg2:T17	
+T21	Ingredient 677 682	onion
+R3	Quantify Arg1:T18 Arg2:T21	
+R4	Measure Arg1:T19 Arg2:T21	
+T22	Amount 689 690	2
+T23	Unit 691 702	tablespoons
+T24	Ingredient 706 716	mayonnaise
+R5	Quantify Arg1:T22 Arg2:T24	
+R6	Measure Arg1:T23 Arg2:T24	
+T26	Ingredient 829 841	salmon salad
+T25	Ingredient 915 927	rice vinegar
+T27	Unit 900 911	tablespoons
+T28	Amount 898 899	3
+R7	Quantify Arg1:T28 Arg2:T25	
+R8	Measure Arg1:T27 Arg2:T25	
+T29	Amount 934 935	1
+T30	Unit 936 946	tablespoon
+T31	Ingredient 950 955	sugar
+T32	Amount 961 962	1
+T33	Unit 963 971	teaspoon
+T34	Ingredient 975 979	salt
+R9	Quantify Arg1:T29 Arg2:T31	
+R10	Measure Arg1:T30 Arg2:T31	
+R11	Quantify Arg1:T32 Arg2:T34	
+R12	Measure Arg1:T33 Arg2:T34	
+T35	Ingredient 1038 1054	short-grain rice
+T36	Amount 1119 1120	2
+T37	Unit 1121 1125	cups
+T38	Ingredient 1129 1133	rice
+R13	Quantify Arg1:T36 Arg2:T38	
+R14	Measure Arg1:T37 Arg2:T38	
+T39	Ingredient 1184 1196	sesame seeds
+T40	Amount 1293 1294	3
+T41	Unit 1295 1306	tablespoons
+T42	Ingredient 1325 1340	red bell pepper
+T43	Amount 1343 1344	3
+T44	Unit 1345 1356	tablespoons
+T45	Ingredient 1375 1382	carrots
+T46	Amount 1397 1398	3
+T47	Ingredient 1406 1415	egg yolks
+R17	Quantify Arg1:T46 Arg2:T47	
+R18	Measure Arg1:T44 Arg2:T45	
+R19	Quantify Arg1:T43 Arg2:T45	
+T48	Amount 1418 1419	3
+T49	Unit 1420 1431	tablespoons
+T50	Ingredient 1450 1458	broccoli
+R20	Quantify Arg1:T48 Arg2:T50	
+R21	Measure Arg1:T49 Arg2:T50	
+T51	Amount 1465 1466	3
+T52	Unit 1467 1478	tablespoons
+T53	Ingredient 1497 1508	red cabbage
+R22	Measure Arg1:T52 Arg2:T53	
+R23	Quantify Arg1:T51 Arg2:T53	
+T54	Ingredient 1530 1538	broccoli
+T55	Ingredient 1540 1546	carrot
+T56	Ingredient 1552 1563	red cabbage
+T57	Ingredient 1653 1671	yellow bell pepper
+T58	Ingredient 1675 1696	yellow pickled radish
+T59	Ingredient 1855 1865	tuna salad
+T60	Ingredient 797 803	pepper
+T61	Ingredient 821 825	crab
+T62	Ingredient 880 889	guacamole
+R24	Measure Arg1:T41 Arg2:T42	
+R25	Quantify Arg1:T40 Arg2:T42	
+T63	Recipe 2167 2189	ainbow sushi rice cake
+T65	Ingredient 1100 1104	rice
+T66	Amount 1264 1267	one
+T67	Ingredient 1268 1277	vegetable
+R15	Quantify Arg1:T66 Arg2:T67	

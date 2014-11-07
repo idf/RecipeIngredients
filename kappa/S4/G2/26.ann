@@ -1,0 +1,93 @@
+T1	Recipe 348 374	jelly roll ice cream bombe
+T2	Ingredient 609 619	jelly roll
+T3	Ingredient 842 852	jelly roll
+T4	Ingredient 915 924	ice cream
+T5	Ingredient 929 935	sorbet
+T6	Ingredient 956 966	jelly roll
+T7	Ingredient 1030 1040	jelly roll
+T8	Ingredient 1088 1105	all purpose flour
+T9	Ingredient 1107 1120	baking powder
+T10	Ingredient 1122 1126	salt
+T11	Ingredient 1128 1144	granulated sugar
+T12	Amount 1146 1150	some
+T13	Ingredient 1151 1155	eggs
+T14	Ingredient 1201 1214	vanilla paste
+T15	Ingredient 1230 1245	vanilla extract
+T16	Amount 1251 1255	some
+T17	Ingredient 1256 1260	milk
+R1	Quantify Arg1:T12 Arg2:T13	
+R2	Quantify Arg1:T16 Arg2:T17	
+T18	Ingredient 1674 1684	egg whites
+T19	Ingredient 1711 1721	egg whites
+T20	Ingredient 2266 2276	egg whites
+T21	Ingredient 2344 2354	egg whites
+T22	Ingredient 2484 2493	egg yolks
+T23	Ingredient 2501 2506	sugar
+T24	Ingredient 2853 2866	vanilla paste
+T25	Unit 2838 2846	spoonful
+T26	Amount 2836 2837	a
+R3	Quantify Arg1:T26 Arg2:T24	
+R4	Measure Arg1:T25 Arg2:T24	
+T27	Ingredient 2895 2910	vanilla extract
+T28	Ingredient 2933 2946	vanilla paste
+T29	Ingredient 3119 3132	baking powder
+T30	Ingredient 3141 3145	salt
+T31	Ingredient 3201 3205	milk
+T32	Ingredient 3477 3487	egg whites
+T33	Ingredient 3816 3826	egg whites
+T34	Ingredient 4149 4159	egg whites
+T39	Amount 5285 5289	some
+T38	Ingredient 5290 5308	confectioner sugar
+R7	Quantify Arg1:T39 Arg2:T38	
+T40	Amount 5389 5393	some
+T41	Ingredient 5394 5399	sugar
+R8	Quantify Arg1:T40 Arg2:T41	
+T43	Ingredient 6400 6409	ice cream
+T44	Ingredient 6443 6463	strawberry ice cream
+T45	Ingredient 6480 6492	mango sorbet
+T46	Ingredient 7075 7095	strawberry preserves
+T47	Amount 7070 7074	some
+R9	Quantify Arg1:T47 Arg2:T46	
+T48	Ingredient 7388 7400	strawberries
+T49	Amount 7366 7370	some
+T50	Unit 7378 7384	pieces
+R10	Measure Arg1:T50 Arg2:T48	
+R11	Quantify Arg1:T49 Arg2:T48	
+T53	Ingredient 9038 9058	strawberry ice cream
+T54	Ingredient 9231 9237	orange
+T55	Amount 9228 9230	an
+T56	Ingredient 9274 9280	orange
+T57	Amount 9271 9273	an
+T61	Ingredient 10343 10356	grand marnier
+T63	Ingredient 10407 10420	cherry brandy
+T62	Amount 10398 10406	a little
+T64	Amount 10334 10342	a little
+R12	Quantify Arg1:T64 Arg2:T61	
+R13	Quantify Arg1:T62 Arg2:T63	
+T65	Ingredient 10491 10500	ice cream
+T66	Ingredient 10931 10943	mango sorbet
+T67	Ingredient 11125 11134	ice cream
+T68	Ingredient 11366 11375	ice cream
+T69	Ingredient 11523 11543	strawberry ice cream
+T70	Ingredient 12045 12050	water
+T71	Ingredient 12150 12159	ice cream
+T72	Ingredient 12279 12291	mango sorbet
+T73	Amount 12274 12278	some
+R14	Quantify Arg1:T73 Arg2:T72	
+T74	Ingredient 12524 12536	mango sorbet
+T75	Ingredient 12898 12910	mango sorbet
+R15	Quantify Arg1:T55 Arg2:T54	
+T58	Ingredient 14269 14278	ice cream
+R16	Quantify Arg1:T57 Arg2:T56	
+T77	Ingredient 14304 14320	cherry ice cream
+T78	Ingredient 14452 14462	jelly roll
+T59	Ingredient 14500 14520	strawberry ice cream
+T60	Ingredient 14565 14577	mango sorbet
+T81	Ingredient 628 642	strawberry jam
+T82	Ingredient 683 703	strawberry ice cream
+T83	Ingredient 708 720	mango sorbet
+T84	Ingredient 7120 7128	preserve
+T85	Ingredient 15167 15170	jam
+T86	Ingredient 15195 15205	strawberry
+T87	Ingredient 15214 15219	mango
+T35	Ingredient 14322 14331	chocolate

@@ -1,0 +1,116 @@
+T1	Recipe 347 366	S'mores cookie cups
+T2	Ingredient 875 892	all purpose flour
+T3	Amount 870 874	some
+T4	Ingredient 894 905	baking soda
+T5	Ingredient 912 916	salt
+T6	Amount 907 911	some
+T7	Amount 918 922	some
+T8	Ingredient 923 945	ground graham crackers
+T9	Ingredient 956 972	granulated sugar
+T10	Ingredient 974 984	brown suga
+T11	Ingredient 992 1007	unsalted butter
+R1	Quantify Arg1:T3 Arg2:T2	
+R2	Quantify Arg1:T3 Arg2:T4	
+R3	Quantify Arg1:T6 Arg2:T5	
+R4	Quantify Arg1:T7 Arg2:T8	
+T12	Amount 987 991	some
+R5	Quantify Arg1:T12 Arg2:T11	
+T13	Ingredient 1082 1086	bars
+T14	Ingredient 1198 1207	chocolate
+T15	Ingredient 1246 1249	egg
+T16	Amount 1243 1245	an
+T17	Amount 1184 1188	some
+R6	Quantify Arg1:T17 Arg2:T14	
+R7	Quantify Arg1:T16 Arg2:T15	
+T18	Ingredient 1256 1268	marshmallows
+T19	Ingredient 1274 1289	vanilla extract
+T20	Ingredient 1399 1403	bars
+T21	Amount 1452 1454	48
+T22	Unit 1462 1468	pieces
+R8	Quantify Arg1:T21 Arg2:T20	
+R9	Measure Arg1:T22 Arg2:T20	
+T23	Amount 1518 1521	1/4
+T24	Unit 1522 1525	cup
+T25	Ingredient 1536 1545	chocolate
+R10	Measure Arg1:T24 Arg2:T25	
+R11	Quantify Arg1:T23 Arg2:T25	
+T26	Amount 1707 1716	a quarter
+T27	Unit 1717 1720	cup
+R12	Quantify Arg1:T26 Arg2:T25	
+R13	Measure Arg1:T27 Arg2:T25	
+T28	Ingredient 1867 1873	muffin
+T29	Amount 1860 1861	a
+R14	Quantify Arg1:T29 Arg2:T28	
+T30	Ingredient 2126 2132	butter
+T31	Ingredient 2305 2310	sugar
+T32	Ingredient 2375 2380	sugar
+T33	Ingredient 2407 2413	butter
+T34	Ingredient 2630 2633	egg
+T35	Ingredient 2655 2670	vanilla extract
+T36	Ingredient 2779 2794	graham crackers
+T37	Amount 2774 2778	some
+R15	Quantify Arg1:T37 Arg2:T36	
+T38	Ingredient 3516 3525	chocolate
+T39	Ingredient 3563 3572	chocolate
+T40	Ingredient 3649 3658	chocolate
+T42	Ingredient 7399 7408	chocolate
+T43	Ingredient 7437 7446	chocolate
+T44	Ingredient 7775 7784	chocolate
+T45	Ingredient 7903 7914	marshmallow
+T46	Ingredient 7878 7887	chocolate
+T47	Ingredient 7930 7939	chocolate
+T48	Amount 1490 1494	some
+R16	Quantify Arg1:T48 Arg2:T25	
+T49	Ingredient 1918 1931	cooking spray
+T50	Amount 1903 1907	some
+R17	Quantify Arg1:T50 Arg2:T49	
+T51	Ingredient 6280 6292	marshmallows
+T52	Amount 6266 6279	three or four
+T53	Amount 6344 6348	some
+T54	Ingredient 6349 6361	marshmallows
+R18	Quantify Arg1:T52 Arg2:T51	
+R19	Quantify Arg1:T53 Arg2:T54	
+T55	Amount 6406 6407	4
+R20	Quantify Arg1:T55 Arg2:T54	
+T41	Ingredient 1109 1113	bars
+T56	Unit 1367 1372	bunch
+T57	Amount 1365 1366	a
+R21	Quantify Arg1:T57 Arg2:T20	
+R22	Measure Arg1:T56 Arg2:T20	
+T58	Amount 2638 2639	a
+T59	Unit 2645 2651	splash
+R23	Measure Arg1:T59 Arg2:T35	
+R24	Quantify Arg1:T58 Arg2:T35	
+T60	Amount 4107 4108	a
+T61	Unit 4109 4119	tablespoon
+T62	Amount 4146 4148	an
+T63	Ingredient 4149 4164	ice cream scoop
+R25	Quantify Arg1:T62 Arg2:T63	
+R26	Measure Arg1:T61 Arg2:T63	
+R27	Quantify Arg1:T60 Arg2:T63	
+T64	Ingredient 4189 4204	ice cream scoop
+T65	Unit 4232 4242	tablespoon
+R28	Measure Arg1:T65 Arg2:T64	
+T66	Amount 6455 6456	3
+R29	Quantify Arg1:T66 Arg2:T54	
+T67	Amount 6529 6530	3
+R30	Quantify Arg1:T67 Arg2:T54	
+T68	Ingredient 7662 7671	chocolate
+T69	Amount 8557 8558	a
+T70	Unit 8559 8562	bar
+T71	Ingredient 8566 8575	chocolate
+R31	Measure Arg1:T70 Arg2:T71	
+R32	Quantify Arg1:T69 Arg2:T71	
+T72	Amount 5933 5934	a
+T73	Unit 5942 5947	piece
+T74	Ingredient 5951 5960	chocolate
+R33	Quantify Arg1:T72 Arg2:T74	
+R34	Measure Arg1:T73 Arg2:T74	
+T75	Ingredient 7012 7021	chocolate
+T76	Ingredient 7251 7260	chocolate
+T77	Unit 7428 7433	piece
+R35	Measure Arg1:T77 Arg2:T43	
+T78	Amount 7766 7767	a
+T79	Unit 7768 7771	bar
+R36	Measure Arg1:T79 Arg2:T44	
+R37	Quantify Arg1:T78 Arg2:T44	

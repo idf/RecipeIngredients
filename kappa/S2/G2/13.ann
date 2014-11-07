@@ -1,0 +1,74 @@
+T1	Recipe 293 321	cinnamon swirl protein bread
+T2	Ingredient 936 945	oat flour
+T3	Ingredient 983 992	oat flour
+T4	Ingredient 1428 1432	oats
+T5	Amount 1802 1807	1 1/2
+T6	Unit 1808 1811	cup
+T7	Ingredient 1819 1828	oat flour
+R1	Quantify Arg1:T5 Arg2:T7	
+R2	Measure Arg1:T6 Arg2:T7	
+T8	Ingredient 1862 1882	vanilla whey protein
+T10	Amount 1943 1946	two
+T11	Unit 1947 1953	scoops
+R3	Quantify Arg1:T10 Arg2:T8	
+R4	Measure Arg1:T11 Arg2:T8	
+T9	Ingredient 2271 2275	salt
+T12	Ingredient 2320 2331	baking soda
+T13	Ingredient 2335 2348	baking powder
+T14	Amount 2486 2489	1/4
+T15	Unit 2490 2493	cup
+T16	Ingredient 2497 2503	Stevia
+R5	Quantify Arg1:T14 Arg2:T16	
+R6	Measure Arg1:T15 Arg2:T16	
+T17	Ingredient 2522 2528	Stevia
+T18	Ingredient 2564 2570	Stevia
+T19	Ingredient 2679 2685	Stevia
+T20	Ingredient 2781 2787	Stevia
+T21	Ingredient 2801 2807	Stevia
+T22	Ingredient 3470 3483	baking powder
+T23	Ingredient 3731 3741	egg whites
+T24	Amount 3727 3730	two
+R7	Quantify Arg1:T24 Arg2:T23	
+T25	Ingredient 3770 3779	whole egg
+T26	Amount 3768 3769	a
+R8	Quantify Arg1:T26 Arg2:T25	
+T27	Amount 3799 3800	a
+T28	Ingredient 3801 3810	whole egg
+R9	Quantify Arg1:T27 Arg2:T28	
+T29	Ingredient 4106 4126	baby food applesauce
+T30	Amount 4095 4098	one
+T31	Unit 4099 4102	jar
+R10	Quantify Arg1:T30 Arg2:T29	
+R11	Measure Arg1:T31 Arg2:T29	
+T32	Ingredient 4453 4475	unsweetened applesauce
+T33	Ingredient 4695 4707	Greek yogurt
+T34	Ingredient 4717 4729	Greek yogurt
+T35	Amount 4800 4806	a half
+T36	Unit 4809 4818	container
+R12	Quantify Arg1:T35 Arg2:T34	
+R13	Measure Arg1:T36 Arg2:T34	
+T37	Ingredient 4920 4940	baby food applesauce
+T38	Ingredient 4949 4955	yogurt
+T39	Ingredient 5092 5117	unsweetened Almond Breeze
+T40	Ingredient 5128 5141	Almond Breeze
+T41	Ingredient 6296 6309	Almond Breeze
+T42	Ingredient 6461 6469	raw eggs
+T43	Ingredient 6612 6620	cinnamon
+T44	Ingredient 6634 6641	Xylitol
+T45	Ingredient 6652 6659	Xylitol
+T46	Ingredient 6859 6865	Stevia
+T47	Ingredient 6968 6976	cinnamon
+T48	Ingredient 6983 6990	Xylitol
+T49	Amount 7006 7009	1/3
+T50	Unit 7015 7018	cup
+R14	Quantify Arg1:T49 Arg2:T47	
+R15	Measure Arg1:T50 Arg2:T47	
+T51	Amount 7134 7140	2 or 3
+T52	Unit 7141 7150	teaspoons
+T53	Ingredient 7154 7162	cinnamon
+R16	Quantify Arg1:T51 Arg2:T53	
+R17	Measure Arg1:T52 Arg2:T53	
+T54	Ingredient 7318 7325	Xylitol
+T55	Ingredient 7415 7421	Stevia
+T56	Ingredient 7596 7603	Xylitol
+T57	Ingredient 10610 10618	cinnamon

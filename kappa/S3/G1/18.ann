@@ -1,0 +1,75 @@
+T1	Recipe 320 347	Honey Almond Protein Crisps
+T2	Ingredient 665 682	crispy brown rice
+T3	Amount 655 656	3
+T4	Unit 657 661	cups
+R1	Measure Arg1:T4 Arg2:T2	
+R2	Quantify Arg1:T3 Arg2:T2	
+T5	Ingredient 713 723	whole oats
+T6	Amount 704 705	1
+T7	Unit 706 709	cup
+R3	Measure Arg1:T7 Arg2:T5	
+R4	Quantify Arg1:T6 Arg2:T5	
+T8	Ingredient 761 776	vanilla protein
+T9	Unit 752 757	scoop
+T10	Amount 750 751	a
+R5	Measure Arg1:T9 Arg2:T8	
+R6	Quantify Arg1:T10 Arg2:T8	
+T11	Amount 822 830	a fourth
+T12	Unit 836 839	cup
+T13	Ingredient 851 858	almonds
+R7	Measure Arg1:T12 Arg2:T13	
+R8	Quantify Arg1:T11 Arg2:T13	
+T14	Ingredient 893 900	almonds
+T16	Ingredient 1029 1042	almond butter
+T17	Ingredient 1064 1069	honey
+T19	Ingredient 1704 1721	crispy brown rice
+T20	Unit 1692 1696	cups
+T21	Amount 1690 1691	3
+R9	Quantify Arg1:T21 Arg2:T19	
+R10	Measure Arg1:T20 Arg2:T19	
+T18	Ingredient 2319 2329	whole oats
+T22	Unit 2312 2315	cup
+T23	Amount 2310 2311	1
+R11	Quantify Arg1:T23 Arg2:T18	
+R12	Measure Arg1:T22 Arg2:T18	
+T24	Amount 2397 2405	a fourth
+T25	Unit 2411 2416	scoop
+T26	Ingredient 2428 2435	almonds
+R13	Measure Arg1:T25 Arg2:T26	
+R14	Quantify Arg1:T24 Arg2:T26	
+T27	Amount 2659 2667	a fourth
+T28	Unit 2673 2676	cup
+T29	Unit 2875 2880	scoop
+T30	Amount 2871 2874	one
+T31	Ingredient 2884 2891	protein
+R15	Measure Arg1:T29 Arg2:T31	
+R16	Quantify Arg1:T30 Arg2:T31	
+T32	Ingredient 2976 2983	protein
+T33	Ingredient 3016 3023	protein
+T34	Ingredient 3602 3615	almond butter
+T35	Amount 4101 4114	three-fourths
+T36	Unit 4120 4123	cup
+T37	Amount 5216 5229	three-fourths
+T38	Unit 5235 5238	cup
+T39	Unit 5271 5275	cups
+T40	Amount 5269 5270	2
+T41	Ingredient 5279 5284	honey
+R17	Measure Arg1:T39 Arg2:T41	
+R18	Quantify Arg1:T40 Arg2:T41	
+T42	Ingredient 5293 5298	honey
+T43	Ingredient 5697 5702	honey
+T44	Ingredient 6187 6192	honey
+T45	Ingredient 8094 8106	dried fruits
+T46	Ingredient 8199 8211	dried fruits
+T47	Ingredient 8243 8247	nuts
+T48	Ingredient 8287 8294	peanuts
+T49	Ingredient 8262 8269	Walnuts
+T50	Recipe 9621 9648	Honey Almond Protein Crisps
+T51	Amount 2268 2269	3
+T52	Unit 2270 2274	cups
+T53	Ingredient 4524 4537	peanut butter
+T54	Ingredient 4541 4547	tahini
+T55	Ingredient 6697 6704	sucanat
+T56	Ingredient 6068 6093	xylitol brown sugar blend
+T57	Ingredient 1156 1181	xylitol brown sugar blend
+T15	Ingredient 955 962	almonds

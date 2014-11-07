@@ -1,0 +1,76 @@
+T1	Recipe 288 311	Turkey Meatloaf Muffins
+T2	Unit 520 523	cup
+T3	Amount 518 519	a
+T4	Ingredient 527 545	quick-cooking oats
+R1	Measure Arg1:T2 Arg2:T4	
+R2	Quantify Arg1:T3 Arg2:T4	
+T5	Ingredient 684 690	garlic
+T6	Unit 669 680	tablespoons
+T7	Amount 667 668	2
+R3	Quantify Arg1:T7 Arg2:T5	
+R4	Measure Arg1:T6 Arg2:T5	
+T8	Ingredient 843 849	garlic
+T9	Unit 1444 1452	teaspoon
+T10	Amount 1442 1443	1
+T11	Ingredient 1456 1460	salt
+R5	Measure Arg1:T9 Arg2:T11	
+R6	Quantify Arg1:T10 Arg2:T11	
+T12	Ingredient 1490 1496	pepper
+T13	Ingredient 1498 1510	black pepper
+T14	Unit 1477 1486	teaspoons
+T15	Amount 1475 1476	2
+R7	Measure Arg1:T14 Arg2:T12	
+R8	Quantify Arg1:T15 Arg2:T12	
+R9	Measure Arg1:T14 Arg2:T13	
+R10	Quantify Arg1:T15 Arg2:T13	
+T16	Unit 1532 1541	teaspoons
+T17	Amount 1530 1531	2
+T18	Ingredient 1547 1558	dry mustard
+T19	Ingredient 1567 1586	dry, yellow mustard
+R11	Measure Arg1:T16 Arg2:T18	
+R12	Quantify Arg1:T17 Arg2:T18	
+T20	Ingredient 1627 1645	dry yellow mustard
+T21	Ingredient 1814 1820	pepper
+T22	Ingredient 1953 1958	cumin
+T23	Unit 1941 1949	teaspoon
+T24	Amount 1936 1940	half
+R13	Quantify Arg1:T24 Arg2:T22	
+R14	Measure Arg1:T23 Arg2:T22	
+T25	Ingredient 1963 1968	Cumin
+T26	Ingredient 2221 2226	thyme
+T27	Unit 2209 2217	teaspoon
+T28	Amount 2204 2208	half
+R15	Quantify Arg1:T28 Arg2:T26	
+R16	Measure Arg1:T27 Arg2:T26	
+T29	Ingredient 2522 2547	chipotle pepper seasoning
+T30	Unit 2507 2516	teaspoons
+T31	Amount 2505 2506	2
+R17	Measure Arg1:T30 Arg2:T29	
+R18	Quantify Arg1:T31 Arg2:T29	
+T32	Unit 2761 2769	teaspoon
+T33	Amount 2759 2760	a
+T34	Amount 2774 2780	a half
+R19	Quantify Arg1:T34 Arg2:T29	
+R20	Measure Arg1:T32 Arg2:T29	
+R21	Quantify Arg1:T33 Arg2:T29	
+T35	Ingredient 3281 3287	onions
+T36	Ingredient 3300 3306	celery
+T37	Ingredient 3486 3492	onions
+T39	Ingredient 3708 3719	red peppers
+T40	Ingredient 3721 3734	green peppers
+T38	Ingredient 3773 3778	onion
+T41	Ingredient 3762 3768	celery
+T42	Ingredient 4083 4107	extra-lean ground turkey
+T43	Ingredient 4124 4156	extra-lean ground chicken breast
+T44	Amount 4338 4339	2
+T45	Unit 4340 4346	pounds
+T46	Ingredient 4612 4622	egg whites
+T47	Amount 4610 4611	3
+R22	Quantify Arg1:T47 Arg2:T46	
+T48	Ingredient 4707 4710	egg
+T49	Ingredient 4768 4778	egg whites
+T50	Ingredient 5268 5283	olive oil spray
+T51	Ingredient 5254 5264	canola oil
+T52	Ingredient 6734 6738	pita
+T53	Ingredient 7614 7618	eggs
+T54	Recipe 10846 10868	Turkey Meatloaf Muffin

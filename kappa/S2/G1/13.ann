@@ -1,0 +1,77 @@
+T1	Recipe 290 318	cinnamon swirl protein bread
+T3	Ingredient 923 932	oat flour
+T4	Ingredient 969 978	oat flour
+T5	Amount 1780 1785	1 1/2
+T6	Unit 1786 1789	cup
+T7	Ingredient 1797 1806	oat flour
+R1	Measure Arg1:T6 Arg2:T7	
+R2	Quantify Arg1:T5 Arg2:T7	
+T8	Ingredient 1839 1859	vanilla whey protein
+T9	Amount 1918 1921	two
+R4	Quantify Arg1:T9 Arg2:T8	
+T11	Ingredient 2194 2203	oat flour
+T12	Ingredient 2242 2246	salt
+T13	Ingredient 2305 2318	baking powder
+T14	Ingredient 2290 2301	baking soda
+T15	Ingredient 2337 2341	salt
+T16	Amount 2454 2457	1/4
+T17	Unit 2458 2461	cup
+T18	Ingredient 2489 2495	Stevia
+T19	Ingredient 2465 2471	Stevia
+R5	Measure Arg1:T17 Arg2:T19	
+R6	Quantify Arg1:T16 Arg2:T19	
+T20	Ingredient 2530 2536	Stevia
+T21	Ingredient 2745 2751	Stevia
+T22	Ingredient 2764 2770	Stevia
+T23	Ingredient 3421 3434	baking powder
+T24	Ingredient 3679 3689	egg whites
+T25	Amount 3675 3678	two
+R7	Quantify Arg1:T25 Arg2:T24	
+T26	Ingredient 3852 3855	egg
+T27	Ingredient 3885 3889	yolk
+T28	Ingredient 4048 4068	baby food applesauce
+T29	Unit 4041 4044	jar
+T30	Amount 4037 4040	one
+R8	Measure Arg1:T29 Arg2:T28	
+R10	Quantify Arg1:T30 Arg2:T28	
+T33	Ingredient 4098 4108	applesauce
+T34	Ingredient 4506 4512	Stevia
+T35	Ingredient 4606 4612	yogurt
+T36	Ingredient 4630 4642	Greek yogurt
+T37	Ingredient 4652 4664	Greek yogurt
+T38	Ingredient 4851 4871	baby food applesauce
+T10	Unit 1922 1928	scoops
+T40	Ingredient 5056 5069	Almond Breeze
+R3	Measure Arg1:T10 Arg2:T8	
+T39	Ingredient 5033 5046	Almond Breeze
+T2	Ingredient 6205 6218	Almond Breeze
+T31	Ingredient 2804 2810	Truvia
+T32	Ingredient 6222 6233	almond milk
+T41	Ingredient 6372 6376	eggs
+T42	Ingredient 3001 3007	Truvia
+T43	Ingredient 6517 6525	cinnamon
+T44	Ingredient 6539 6546	Xylitol
+T45	Ingredient 6556 6563	Xylitol
+T46	Ingredient 6885 6892	Xylitol
+T47	Ingredient 6870 6878	cinnamon
+T48	Ingredient 4018 4022	eggs
+T49	Amount 6907 6910	1/3
+T50	Unit 6916 6919	cup
+T51	Recipe 6968 6996	cinnamon swirl protein bread
+T52	Amount 7032 7033	2
+T53	Amount 7037 7038	3
+T54	Unit 7039 7048	teaspoons
+T55	Ingredient 7052 7060	cinnamon
+R9	Measure Arg1:T54 Arg2:T55	
+R11	Quantify Arg1:T53 Arg2:T55	
+R12	Quantify Arg1:T52 Arg2:T55	
+T56	Ingredient 7134 7142	cinnamon
+T57	Ingredient 6763 6769	Stevia
+T58	Amount 7106 7107	3
+T59	Ingredient 7210 7217	Xylitol
+R13	Measure Arg1:T50 Arg2:T47	
+R14	Quantify Arg1:T49 Arg2:T47	
+T60	Ingredient 7307 7313	Stevia
+R15	Quantify Arg1:T58 Arg2:T55	
+T61	Ingredient 7487 7494	Xylitol
+T62	Recipe 9441 9463	cinnamon protein bread

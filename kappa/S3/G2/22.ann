@@ -1,0 +1,211 @@
+T1	Recipe 337 375	strawberry banana oatmeal protein bake
+T2	Recipe 439 451	banana bread
+T3	Recipe 470 482	banana bread
+T5	Amount 1053 1054	2
+T4	Unit 1055 1059	cups
+T6	Ingredient 1077 1081	oats
+R1	Quantify Arg1:T5 Arg2:T6	
+R2	Measure Arg1:T4 Arg2:T6	
+T7	Ingredient 1113 1117	oats
+T8	Ingredient 1291 1295	oats
+T9	Unit 1382 1388	scoops
+T10	Amount 1380 1381	4
+T11	Ingredient 1392 1419	vanilla whey protein powder
+R3	Quantify Arg1:T10 Arg2:T11	
+R4	Measure Arg1:T9 Arg2:T11	
+T12	Amount 1554 1555	2
+T13	Unit 1556 1567	tablespoons
+T14	Ingredient 1571 1587	ground flax seed
+R5	Quantify Arg1:T12 Arg2:T14	
+R6	Measure Arg1:T13 Arg2:T14	
+T15	Ingredient 1622 1631	flax seed
+T16	Ingredient 1848 1857	flax seed
+T17	Ingredient 2067 2082	ground cinnamon
+T18	Unit 2053 2063	tablespoon
+T19	Amount 2051 2052	1
+R7	Quantify Arg1:T19 Arg2:T17	
+R8	Measure Arg1:T18 Arg2:T17	
+T20	Ingredient 2110 2123	baking powder
+T21	Unit 2098 2106	teaspoon
+T22	Amount 2096 2097	1
+T23	Amount 2125 2133	a fourth
+T24	Ingredient 2151 2155	salt
+T25	Unit 2139 2147	teaspoon
+R9	Quantify Arg1:T22 Arg2:T20	
+R10	Measure Arg1:T21 Arg2:T20	
+R11	Quantify Arg1:T23 Arg2:T24	
+R12	Measure Arg1:T25 Arg2:T24	
+T26	Ingredient 2238 2244	Stevia
+T27	Unit 2231 2234	cup
+T28	Amount 2227 2230	1/2
+R13	Quantify Arg1:T28 Arg2:T26	
+R14	Measure Arg1:T27 Arg2:T26	
+T29	Ingredient 2316 2322	Truvia
+T30	Ingredient 2326 2333	Xylitol
+T31	Unit 2412 2415	cup
+T32	Amount 2408 2411	1/2
+T33	Ingredient 2419 2441	unsweetened applesauce
+R15	Quantify Arg1:T32 Arg2:T33	
+R16	Measure Arg1:T31 Arg2:T33	
+T34	Unit 2458 2464	ounces
+T35	Amount 2456 2457	4
+R17	Quantify Arg1:T35 Arg2:T33	
+R18	Measure Arg1:T34 Arg2:T33	
+T36	Ingredient 2516 2526	applesauce
+T37	Ingredient 2608 2618	applesauce
+T38	Ingredient 3133 3164	unsweetened vanilla almond milk
+T39	Unit 3125 3129	cups
+T40	Amount 3119 3124	1-1/2
+T41	Unit 3098 3101	cup
+T42	Amount 3092 3095	1/2
+R19	Quantify Arg1:T42 Arg2:T33	
+R20	Measure Arg1:T41 Arg2:T33	
+R21	Quantify Arg1:T40 Arg2:T38	
+R22	Measure Arg1:T39 Arg2:T38	
+T43	Ingredient 3188 3199	almond milk
+T44	Ingredient 3353 3384	unsweetened vanilla almond milk
+T45	Ingredient 3459 3470	almond milk
+T46	Amount 3657 3665	a fourth
+T47	Unit 3671 3674	cup
+T50	Ingredient 3797 3823	non-fat plain Greek yogurt
+T48	Ingredient 3678 3696	plain Greek yogurt
+R23	Quantify Arg1:T46 Arg2:T48	
+R24	Measure Arg1:T47 Arg2:T48	
+T49	Amount 4112 4116	four
+T51	Ingredient 4117 4127	egg whites
+R25	Quantify Arg1:T49 Arg2:T51	
+T52	Ingredient 4149 4153	eggs
+T53	Amount 4221 4224	two
+T54	Ingredient 4225 4232	bananas
+R26	Quantify Arg1:T53 Arg2:T54	
+T55	Ingredient 4304 4316	strawberries
+T56	Amount 4291 4303	four or five
+R27	Quantify Arg1:T56 Arg2:T55	
+T57	Ingredient 4341 4353	strawberries
+T58	Amount 4400 4416	five or even six
+R28	Quantify Arg1:T58 Arg2:T55	
+T59	Amount 4862 4863	2
+T60	Unit 4864 4868	cups
+T61	Ingredient 4872 4876	oats
+T62	Amount 4878 4879	4
+T63	Unit 4880 4886	scoops
+T64	Ingredient 4890 4904	protein powder
+R29	Quantify Arg1:T59 Arg2:T61	
+R30	Measure Arg1:T60 Arg2:T61	
+R31	Quantify Arg1:T62 Arg2:T64	
+R32	Measure Arg1:T63 Arg2:T64	
+T65	Ingredient 4910 4919	flax seed
+T66	Amount 4921 4922	1
+T67	Unit 4923 4933	tablespoon
+T68	Ingredient 4937 4945	cinnamon
+T69	Amount 4947 4950	1/2
+T70	Unit 4951 4954	cup
+T71	Ingredient 4958 4964	Stevia
+R33	Quantify Arg1:T66 Arg2:T68	
+R34	Measure Arg1:T67 Arg2:T68	
+R35	Quantify Arg1:T69 Arg2:T71	
+R36	Measure Arg1:T70 Arg2:T71	
+T72	Amount 4977 4978	1
+T73	Unit 4979 4987	teaspoon
+T74	Ingredient 4991 5004	baking powder
+R37	Quantify Arg1:T72 Arg2:T74	
+R38	Measure Arg1:T73 Arg2:T74	
+T75	Unit 5023 5031	teaspoon
+T76	Amount 5009 5017	a fourth
+T77	Ingredient 5035 5039	salt
+R39	Quantify Arg1:T76 Arg2:T77	
+R40	Measure Arg1:T75 Arg2:T77	
+T78	Ingredient 5217 5230	baking powder
+T79	Ingredient 5374 5382	cinnamon
+T80	Ingredient 5421 5434	baking powder
+T81	Ingredient 5742 5753	almond milk
+T82	Ingredient 5789 5801	Greek yogurt
+T83	Ingredient 5815 5827	Greek yogurt
+T84	Ingredient 5912 5924	Greek yogurt
+T85	Ingredient 5928 5938	applesauce
+T86	Ingredient 5947 5953	butter
+T87	Ingredient 5962 5965	oil
+T88	Ingredient 6015 6025	applesauce
+T89	Ingredient 6125 6135	egg whites
+T90	Ingredient 6948 6958	egg whites
+T91	Ingredient 7207 7217	egg whites
+T92	Ingredient 8262 8269	bananas
+T93	Amount 8251 8254	one
+T94	Ingredient 7587 7594	bananas
+T95	Ingredient 7545 7552	bananas
+R41	Quantify Arg1:T93 Arg2:T92	
+T96	Ingredient 8395 8401	banana
+T97	Ingredient 8476 8483	bananas
+T98	Ingredient 8816 8823	bananas
+T99	Ingredient 8932 8938	banana
+T100	Ingredient 9063 9070	bananas
+T101	Ingredient 9121 9127	banana
+T102	Ingredient 9190 9197	bananas
+T103	Ingredient 9317 9324	bananas
+T104	Ingredient 9537 9543	banana
+T105	Ingredient 9613 9620	bananas
+T106	Ingredient 9751 9758	bananas
+T107	Ingredient 9903 9912	egg white
+T108	Amount 9899 9902	one
+T109	Amount 9914 9915	a
+T110	Unit 9916 9921	scoop
+T111	Ingredient 9925 9939	protein powder
+T112	Amount 9944 9947	1/2
+T113	Unit 9950 9953	cup
+T114	Ingredient 9957 9961	oats
+R42	Quantify Arg1:T112 Arg2:T114	
+R43	Measure Arg1:T113 Arg2:T114	
+R44	Quantify Arg1:T108 Arg2:T107	
+R45	Quantify Arg1:T109 Arg2:T111	
+R46	Measure Arg1:T110 Arg2:T111	
+T115	Amount 9967 9968	a
+T116	Unit 9976 9979	bit
+T117	Ingredient 9983 9995	Greek yogurt
+T118	Amount 9997 9998	a
+T119	Unit 10006 10009	bit
+T120	Ingredient 10013 10024	almond milk
+R47	Quantify Arg1:T115 Arg2:T117	
+R48	Measure Arg1:T116 Arg2:T117	
+R49	Quantify Arg1:T118 Arg2:T120	
+R50	Measure Arg1:T119 Arg2:T120	
+T121	Ingredient 10053 10059	banana
+T122	Amount 10043 10047	half
+R51	Quantify Arg1:T122 Arg2:T121	
+T123	Ingredient 10314 10321	bananas
+T124	Amount 10300 10304	some
+R52	Quantify Arg1:T124 Arg2:T123	
+T125	Ingredient 10394 10406	strawberries
+T126	Ingredient 10487 10499	strawberries
+T127	Ingredient 10568 10575	bananas
+T128	Ingredient 10713 10720	peaches
+T129	Ingredient 10769 10781	blackberries
+T130	Ingredient 10808 10814	apples
+T131	Ingredient 10841 10852	raspberries
+T132	Ingredient 10985 10997	strawberries
+T134	Amount 11037 11041	four
+T135	Ingredient 11042 11054	strawberries
+T136	Amount 11058 11062	five
+T137	Ingredient 11063 11075	strawberries
+R54	Quantify Arg1:T134 Arg2:T135	
+R55	Quantify Arg1:T136 Arg2:T137	
+T133	Ingredient 6204 6214	egg whites
+T138	Amount 7740 7744	some
+T139	Ingredient 7745 7757	whole grains
+R53	Quantify Arg1:T138 Arg2:T139	
+T140	Ingredient 1125 1137	instant oats
+T141	Ingredient 1201 1213	instant oats
+T142	Ingredient 2184 2197	baking powder
+T143	Ingredient 3225 3229	milk
+T144	Amount 3509 3514	a bit
+T145	Ingredient 3518 3523	sugar
+R56	Quantify Arg1:T144 Arg2:T145	
+T146	Ingredient 3713 3725	Greek yogurt
+T147	Ingredient 6404 6414	egg whites
+T148	Ingredient 6419 6428	egg yolks
+T149	Ingredient 6547 6557	egg whites
+T150	Ingredient 6585 6594	egg yolks
+T151	Amount 10064 10065	a
+T152	Unit 10073 10076	bit
+T153	Ingredient 10080 10086	spices
+R57	Quantify Arg1:T151 Arg2:T153	
+R58	Measure Arg1:T152 Arg2:T153	

@@ -1,0 +1,92 @@
+T1	Recipe 240 260	breakfast enchiladas
+T2	Ingredient 560 575	pasilla chilies
+T3	Amount 542 550	a couple
+T4	Ingredient 273 281	potatoes
+T6	Ingredient 286 293	chorizo
+T7	Ingredient 313 317	eggs
+T5	Ingredient 334 345	chili sauce
+T8	Ingredient 508 519	chili sauce
+T9	Ingredient 867 872	water
+T10	Amount 858 859	a
+T11	Unit 860 863	cup
+R1	Measure Arg1:T11 Arg2:T9	
+R2	Quantify Arg1:T10 Arg2:T9	
+T12	Ingredient 1302 1317	chorizo sausage
+T13	Ingredient 1338 1353	chorizo sausage
+T14	Ingredient 1595 1602	chorizo
+T15	Ingredient 1873 1878	onion
+T16	Ingredient 1909 1915	onions
+T17	Ingredient 2036 2047	chili sauce
+T18	Ingredient 2056 2064	potatoes
+T19	Ingredient 1761 1766	onion
+T20	Ingredient 2112 2127	enchilada sauce
+T21	Recipe 2137 2147	enchiladas
+T22	Ingredient 2185 2188	egg
+T23	Amount 2182 2184	an
+T24	Ingredient 2341 2347	garlic
+T25	Amount 2318 2326	a couple
+T26	Unit 2327 2333	cloves
+T27	Amount 2103 2104	a
+T28	Unit 2105 2108	can
+R3	Quantify Arg1:T27 Arg2:T20	
+R4	Measure Arg1:T28 Arg2:T20	
+R5	Quantify Arg1:T23 Arg2:T22	
+R6	Measure Arg1:T26 Arg2:T24	
+R7	Quantify Arg1:T25 Arg2:T24	
+T29	Ingredient 2491 2497	Onions
+T30	Ingredient 2590 2598	potatoes
+T31	Amount 2582 2585	two
+R8	Quantify Arg1:T31 Arg2:T30	
+T32	Ingredient 2729 2741	baby spinach
+T33	Ingredient 2892 2899	chorizo
+T34	Ingredient 3051 3058	chorizo
+T35	Ingredient 3164 3170	potato
+T36	Ingredient 3363 3376	cotija cheese
+T37	Amount 3625 3627	an
+T38	Unit 3628 3633	ounce
+T39	Ingredient 3738 3745	chorizo
+T40	Ingredient 3754 3760	cotija
+T41	Ingredient 3874 3878	salt
+R9	Measure Arg1:T38 Arg2:T36	
+R10	Quantify Arg1:T37 Arg2:T36	
+T42	Ingredient 4118 4124	cheese
+T43	Ingredient 4379 4386	peppers
+T44	Ingredient 4439 4452	garlic cloves
+T45	Ingredient 5414 5418	salt
+T46	Amount 5426 5435	a quarter
+R11	Quantify Arg1:T46 Arg2:T45	
+T47	Unit 5436 5444	teaspoon
+R12	Measure Arg1:T47 Arg2:T45	
+T48	Ingredient 5604 5618	corn tortillas
+T49	Ingredient 4691 4698	peppers
+T50	Recipe 5574 5583	enchilada
+T51	Ingredient 5709 5712	oil
+T52	Amount 4627 4633	a half
+T53	Unit 4634 4637	cup
+T54	Recipe 5733 5743	enchiladas
+T55	Ingredient 6309 6317	tortilla
+T56	Ingredient 5851 5854	oil
+T57	Unit 6430 6441	tablespoons
+T58	Amount 6423 6429	Couple
+T59	Ingredient 7031 7034	egg
+T60	Ingredient 7200 7204	eggs
+T61	Ingredient 7298 7301	egg
+T62	Ingredient 7345 7351	butter
+T63	Ingredient 7381 7384	oil
+T64	Ingredient 7396 7400	eggs
+T65	Ingredient 7504 7510	butter
+T66	Ingredient 7753 7759	butter
+T67	Ingredient 7623 7629	butter
+T68	Ingredient 7638 7642	eggs
+T69	Ingredient 7851 7857	butter
+T70	Ingredient 8147 8151	eggs
+T71	Ingredient 8334 8338	eggs
+T72	Ingredient 8468 8472	eggs
+T74	Recipe 8820 8830	enchiladas
+T75	Ingredient 9021 9024	egg
+T76	Recipe 9101 9122	Breakfast enchiladas.
+T77	Recipe 8863 8873	Enchiladas
+T78	Recipe 9172 9181	enchilada
+R13	Quantify Arg1:T3 Arg2:T2	
+T73	Amount 3858 3870	a little bit
+T79	Amount 8457 8464	a bunch
