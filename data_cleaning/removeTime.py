@@ -3,6 +3,9 @@ import os
 
 texts = []
 
+if not os.path.exists('raw_data/cleaned'):
+    os.makedirs('raw_data/cleaned/')
+
 directory = os.path.dirname(os.path.realpath(__file__))
 for root, dirs, files in os.walk(directory):
 	for file in files:
@@ -20,7 +23,7 @@ for videoName, videoTexts in texts:
 	for line in lines:
 		if not (p1.search(line) or p2.search(line) or len(line) < 1):
 			transcripts += (line+'\n')
-	f = open(videoName[:len(videoName)-4]+'_cleaned.txt','w')
+	f = open('raw_data/cleaned/'+videoName[:len(videoName)-4]+'_cleaned.txt','w')
 	f.write(transcripts)
 	print(videoName + ' has been cleaned.')
 	f.close()
