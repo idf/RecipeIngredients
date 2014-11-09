@@ -2,6 +2,11 @@
 This model is to identify the relationship among entities. 
 
 After NER system tagged the entity name on the scripts, the relation between the entities could be extracted. For this recipe case, the amount of entities could be extracted from the tagged script.
+##Usage
+To generate evaluation result 
+```
+$ python relation_evaluate.py [data folder name]
+```
 
 ##Method
 Regular expression is used to extract the amount relation. There are several rules to find a relation: 
