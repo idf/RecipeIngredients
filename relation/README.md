@@ -2,6 +2,12 @@
 This model is to identify the relationship among entities. 
 
 After NER system tagged the entity name on the scripts, the relation between the entities could be extracted. For this recipe case, the amount of entities could be extracted from the tagged script.
+
+This model contains three modules:
+* ann_to_xml.py : Convert .ann file and responding text file into xml document
+* info_extraction.py : Extract relation and entities sets from xml document.
+* relation_evaluate.py : Evaluate the relation extractor.
+
 ##Usage
 To generate evaluation result 
 ```
