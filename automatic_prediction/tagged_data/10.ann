@@ -1,0 +1,113 @@
+T1	Recipe 318 343	Blueberry Protein Pancake
+T2	Ingredient 421 431	egg whites
+T3	Ingredient 436 440	oats
+T4	Ingredient 763 773	egg whites
+T5	Amount 761 762	6
+R1	Quantify Arg1:T5 Arg2:T4	
+T6	Unit 783 786	cup
+T7	Amount 779 782	1/2
+T8	Ingredient 802 806	oats
+R2	Measure Arg1:T6 Arg2:T8	
+R3	Quantify Arg1:T7 Arg2:T8	
+T9	Ingredient 1075 1086	blueberries
+T10	Amount 1064 1067	1/4
+T11	Unit 1068 1071	cup
+R4	Measure Arg1:T11 Arg2:T9	
+R5	Quantify Arg1:T10 Arg2:T9	
+T13	Amount 1188 1191	1/2
+T14	Unit 1192 1195	cup
+T12	Ingredient 1199 1230	unsweetened vanilla almond milk
+R6	Measure Arg1:T14 Arg2:T12	
+R7	Quantify Arg1:T13 Arg2:T12	
+T15	Ingredient 1478 1489	almond milk
+T16	Ingredient 1276 1287	almond milk
+T17	Ingredient 1525 1538	baking powder
+T18	Amount 1511 1512	1
+T19	Unit 1513 1521	teaspoon
+R8	Measure Arg1:T19 Arg2:T17	
+R9	Quantify Arg1:T18 Arg2:T17	
+T20	Amount 1599 1602	Two
+T21	Unit 1603 1610	packets
+T22	Ingredient 1614 1620	Truvia
+R10	Measure Arg1:T21 Arg2:T22	
+R11	Quantify Arg1:T20 Arg2:T22	
+T23	Ingredient 1689 1711	unsweetened applesauce
+T24	Amount 1678 1681	1/2
+T25	Unit 1682 1685	cup
+R12	Measure Arg1:T25 Arg2:T23	
+R13	Quantify Arg1:T24 Arg2:T23	
+T27	Ingredient 1731 1739	cinnamon
+T28	Ingredient 2000 2011	almond milk
+T29	Ingredient 2041 2051	egg whites
+T30	Ingredient 3311 3321	egg whites
+T31	Amount 3309 3310	6
+R15	Quantify Arg1:T31 Arg2:T30	
+T32	Ingredient 3353 3357	oats
+T33	Ingredient 3385 3396	blueberries
+T34	Ingredient 3454 3467	baking powder
+T36	Ingredient 3500 3504	salt
+T37	Unit 3538 3546	teaspoon
+T38	Amount 3529 3532	1/8
+R17	Quantify Arg1:T38 Arg2:T36	
+R18	Measure Arg1:T37 Arg2:T36	
+T39	Ingredient 3601 3607	Truvia
+T40	Unit 3590 3597	packets
+T41	Amount 3586 3589	two
+R19	Quantify Arg1:T41 Arg2:T39	
+R20	Measure Arg1:T40 Arg2:T39	
+T42	Ingredient 3705 3711	Truvia
+T43	Unit 3697 3701	pack
+R21	Measure Arg1:T43 Arg2:T42	
+T44	Ingredient 4240 4251	blueberries
+T45	Ingredient 4311 4322	blueberries
+T46	Ingredient 5315 5319	oats
+T47	Ingredient 5361 5372	blueberries
+T48	Ingredient 6036 6052	sugar free syrup
+T49	Ingredient 6225 6247	unsweetened applesauce
+T50	Ingredient 6279 6289	applesauce
+T51	Ingredient 6512 6522	applesauce
+T52	Amount 6495 6499	half
+T53	Unit 6505 6508	cup
+R22	Quantify Arg1:T52 Arg2:T51	
+R23	Measure Arg1:T53 Arg2:T51	
+T54	Ingredient 6629 6637	cinnamon
+T55	Ingredient 6665 6673	cinnamon
+T56	Amount 6655 6656	a
+T57	Ingredient 6760 6768	cinnamon
+T58	Ingredient 6884 6894	egg whites
+T59	Amount 6882 6883	6
+R25	Quantify Arg1:T59 Arg2:T58	
+T60	Amount 6900 6903	1/2
+T61	Unit 6906 6909	cup
+T62	Ingredient 6913 6917	oats
+R26	Measure Arg1:T61 Arg2:T62	
+R27	Quantify Arg1:T60 Arg2:T62	
+T63	Ingredient 6924 6935	blueberries
+T64	Amount 6919 6923	some
+R28	Quantify Arg1:T64 Arg2:T63	
+T65	Ingredient 6946 6957	almond milk
+T66	Amount 6941 6945	some
+R29	Quantify Arg1:T66 Arg2:T65	
+T67	Recipe 6977 7002	Blueberry Protein Pancake
+T68	Amount 6220 6224	some
+R30	Quantify Arg1:T68 Arg2:T49	
+T69	Ingredient 834 838	oats
+T70	Ingredient 855 867	instant oats
+T71	Ingredient 925 937	instant oats
+T26	Unit 1723 1727	dash
+T72	Ingredient 2920 2931	blueberries
+T73	Amount 1721 1722	a
+R14	Quantify Arg1:T73 Arg2:T27	
+R31	Measure Arg1:T26 Arg2:T27	
+T35	Amount 3490 3491	a
+T74	Unit 3492 3496	dash
+R16	Measure Arg1:T74 Arg2:T36	
+R32	Quantify Arg1:T35 Arg2:T36	
+T75	Amount 3689 3696	a third
+R33	Quantify Arg1:T75 Arg2:T42	
+T76	Amount 4229 4233	half
+R34	Quantify Arg1:T76 Arg2:T44	
+T77	Ingredient 4824 4834	egg whites
+T78	Unit 6657 6661	dash
+R24	Measure Arg1:T78 Arg2:T55	
+R36	Quantify Arg1:T56 Arg2:T55	

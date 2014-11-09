@@ -1,0 +1,203 @@
+T1	Recipe 322 337	10-minute tacos
+T2	Ingredient 479 501	grilled chicken breast
+T3	Ingredient 564 571	lettuce
+T4	Ingredient 578 583	salsa
+T5	Amount 573 577	some
+T6	Amount 550 554	some
+T7	Amount 474 478	some
+R1	Quantify Arg1:T7 Arg2:T2	
+R2	Quantify Arg1:T6 Arg2:T3	
+R3	Quantify Arg1:T5 Arg2:T4	
+T8	Ingredient 618 629	black beans
+T9	Amount 602 603	a
+T10	Unit 611 614	bit
+R4	Measure Arg1:T10 Arg2:T8	
+R5	Quantify Arg1:T9 Arg2:T8	
+T11	Ingredient 692 702	brown rice
+T12	Amount 687 691	some
+R6	Quantify Arg1:T12 Arg2:T11	
+T13	Ingredient 634 657	low-fat shredded cheese
+T14	Ingredient 731 751	white corn tortillas
+T15	Ingredient 812 816	lime
+T16	Amount 801 805	some
+R7	Quantify Arg1:T16 Arg2:T15	
+T17	Amount 821 825	some
+T18	Ingredient 826 834	cilantro
+R8	Quantify Arg1:T17 Arg2:T18	
+T19	Ingredient 887 894	avocado
+T20	Amount 871 872	a
+T21	Unit 880 883	bit
+R9	Measure Arg1:T21 Arg2:T19	
+R10	Quantify Arg1:T20 Arg2:T19	
+T22	Ingredient 1024 1033	olive oil
+T23	Amount 1008 1009	a
+T24	Unit 1017 1020	bit
+R11	Measure Arg1:T24 Arg2:T22	
+R12	Quantify Arg1:T23 Arg2:T22	
+T25	Ingredient 1085 1092	chicken
+T26	Amount 1040 1041	a
+T27	Unit 1048 1051	bit
+R13	Quantify Arg1:T26 Arg2:T22	
+R14	Measure Arg1:T27 Arg2:T22	
+T28	Ingredient 1224 1228	salt
+T29	Ingredient 1233 1239	pepper
+T30	Ingredient 1273 1277	salt
+T31	Ingredient 1360 1364	salt
+T32	Ingredient 1492 1496	salt
+T33	Ingredient 1551 1557	pepper
+T34	Ingredient 1567 1581	chicken breast
+T35	Ingredient 1687 1701	chicken breast
+T36	Ingredient 1785 1799	chicken breast
+T37	Ingredient 1912 1919	chicken
+T38	Ingredient 1955 1969	chicken breast
+T39	Amount 1943 1944	4
+T40	Unit 1945 1951	ounces
+R15	Measure Arg1:T40 Arg2:T38	
+R16	Quantify Arg1:T39 Arg2:T38	
+T41	Amount 1990 1991	4
+T42	Unit 1992 1998	ounces
+T45	Ingredient 2410 2417	paprika
+T46	Amount 2394 2395	a
+T47	Unit 2403 2406	bit
+R18	Measure Arg1:T47 Arg2:T45	
+R19	Quantify Arg1:T46 Arg2:T45	
+T48	Ingredient 2500 2512	chili powder
+T49	Ingredient 2566 2580	cayenne pepper
+T50	Ingredient 2595 2605	red pepper
+T51	Amount 2561 2565	Some
+R20	Quantify Arg1:T51 Arg2:T49	
+T52	Amount 2495 2499	some
+R21	Quantify Arg1:T52 Arg2:T48	
+T53	Amount 2582 2586	some
+R22	Quantify Arg1:T53 Arg2:T50	
+T54	Amount 2610 2611	a
+T55	Unit 2619 2622	bit
+T56	Ingredient 2626 2631	cumin
+R23	Measure Arg1:T55 Arg2:T56	
+R24	Quantify Arg1:T54 Arg2:T56	
+T57	Ingredient 2636 2641	Cumin
+T58	Ingredient 2788 2802	chicken breast
+T59	Ingredient 3016 3030	chicken breast
+T60	Ingredient 3279 3288	tortillas
+T61	Ingredient 3390 3398	tortilla
+T62	Ingredient 3473 3481	tortilla
+T63	Ingredient 4066 4075	tortillas
+T64	Ingredient 4142 4151	tortillas
+T65	Ingredient 4823 4830	avocado
+T68	Ingredient 4932 4942	lime juice
+T69	Unit 4925 4928	bit
+T70	Amount 4916 4917	a
+R25	Measure Arg1:T69 Arg2:T68	
+T71	Ingredient 4896 4900	lime
+T72	Amount 4894 4895	a
+R26	Quantify Arg1:T72 Arg2:T71	
+T73	Ingredient 5029 5037	cilantro
+T74	Unit 5022 5025	bit
+T75	Amount 5015 5016	a
+R27	Measure Arg1:T74 Arg2:T73	
+R28	Quantify Arg1:T75 Arg2:T73	
+T76	Ingredient 5197 5204	chicken
+T77	Ingredient 5219 5226	chicken
+T78	Ingredient 5277 5284	chicken
+T66	Ingredient 5448 5452	rice
+T67	Ingredient 5478 5489	black beans
+T79	Amount 5443 5447	some
+R29	Quantify Arg1:T79 Arg2:T66	
+T80	Amount 5473 5477	some
+R30	Quantify Arg1:T80 Arg2:T67	
+T81	Ingredient 5627 5636	tortillas
+T82	Ingredient 5857 5864	lettuce
+T83	Amount 5835 5836	a
+T84	Unit 5844 5847	bit
+R31	Measure Arg1:T84 Arg2:T82	
+R32	Quantify Arg1:T83 Arg2:T82	
+T85	Ingredient 5905 5911	cheese
+T86	Unit 5892 5895	bit
+T87	Amount 5883 5884	a
+R33	Measure Arg1:T86 Arg2:T85	
+R34	Quantify Arg1:T87 Arg2:T85	
+T88	Ingredient 6354 6361	chicken
+T89	Ingredient 6430 6434	rice
+T90	Amount 6414 6415	a
+T91	Unit 6423 6426	bit
+R35	Measure Arg1:T91 Arg2:T89	
+R36	Quantify Arg1:T90 Arg2:T89	
+T92	Amount 6436 6437	a
+T93	Unit 6445 6448	bit
+T94	Ingredient 6452 6463	black beans
+R37	Measure Arg1:T93 Arg2:T94	
+R38	Quantify Arg1:T92 Arg2:T94	
+T95	Ingredient 6538 6544	cheese
+T96	Ingredient 6622 6628	cheese
+T97	Ingredient 6658 6665	lettuce
+T98	Unit 6651 6654	bit
+T99	Amount 6642 6643	a
+R39	Quantify Arg1:T99 Arg2:T97	
+R40	Measure Arg1:T98 Arg2:T97	
+T100	Amount 6704 6708	some
+T101	Ingredient 6709 6714	salsa
+R41	Quantify Arg1:T100 Arg2:T101	
+T102	Amount 6737 6741	some
+T103	Ingredient 6742 6747	salsa
+R42	Quantify Arg1:T102 Arg2:T103	
+T104	Ingredient 6801 6809	cilantro
+T105	Amount 6785 6786	a
+T106	Unit 6794 6797	bit
+R43	Measure Arg1:T106 Arg2:T104	
+R44	Quantify Arg1:T105 Arg2:T104	
+T107	Ingredient 6829 6833	lime
+T108	Ingredient 6883 6891	tortilla
+T109	Ingredient 7023 7030	chicken
+T110	Unit 7016 7019	bit
+R45	Measure Arg1:T110 Arg2:T109	
+T111	Ingredient 7480 7488	cilantro
+T112	Unit 7473 7476	bit
+R46	Measure Arg1:T112 Arg2:T111	
+T113	Ingredient 7685 7694	tortillas
+T114	Ingredient 7889 7897	tortilla
+T115	Ingredient 7944 7955	black beans
+T116	Ingredient 7960 7970	brown rice
+T117	Ingredient 7998 8003	salsa
+T118	Ingredient 8074 8078	lime
+T119	Ingredient 8119 8123	lime
+T120	Ingredient 8208 8215	avocado
+T121	Ingredient 8260 8267	avocado
+T122	Ingredient 9266 9273	avocado
+T123	Ingredient 9310 9314	rice
+T124	Ingredient 9343 9350	avocado
+T125	Ingredient 9386 9397	black beans
+T126	Ingredient 9422 9433	black beans
+T127	Recipe 539 544	tacos
+T128	Amount 1487 1491	some
+R47	Quantify Arg1:T128 Arg2:T32	
+T129	Recipe 4862 4866	taco
+T130	Recipe 4973 4977	taco
+T135	Ingredient 7504 7508	lime
+T136	Ingredient 8145 8149	Lime
+T131	Recipe 9534 9549	10-minute tacos
+R48	Measure Arg1:T10 Arg2:T13	
+R49	Quantify Arg1:T9 Arg2:T13	
+T132	Ingredient 1300 1304	salt
+R50	Quantify Arg1:T41 Arg2:T38	
+R51	Measure Arg1:T42 Arg2:T38	
+R17	Quantify Arg1:T70 Arg2:T68	
+T43	Ingredient 6201 6208	chicken
+T44	Amount 6667 6671	some
+T133	Ingredient 6672 6679	avocado
+R52	Quantify Arg1:T44 Arg2:T133	
+T134	Unit 5426 5429	bit
+T137	Amount 5417 5418	a
+R53	Quantify Arg1:T137 Arg2:T66	
+R54	Measure Arg1:T134 Arg2:T66	
+T138	Recipe 5951 5955	taco
+T139	Ingredient 6080 6087	Avocado
+T141	Recipe 7648 7653	tacos
+T142	Recipe 7662 7667	tacos
+T140	Ingredient 7773 7783	brown rice
+T143	Unit 7760 7763	bit
+T144	Amount 7751 7752	a
+R56	Measure Arg1:T143 Arg2:T140	
+R57	Quantify Arg1:T144 Arg2:T140	
+T145	Ingredient 8136 8140	lime
+T146	Ingredient 9354 9358	rice
+T147	Ingredient 9442 9446	rice

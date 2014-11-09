@@ -10,22 +10,6 @@ entities = ['Ingredient','Amount','Unit','Recipe']
 auto_tag_set = []
 nonauto_tag_set = []
 
-process_files_in_dir('auto-tag')
-
-confusion_matrix = calc_diff_by_entity(nonauto_tag_set,auto_tag_set)
-
-for key, value in confusion_matrix.iteritems():
-	if value['TP'] == 0:
-		precision = 0
-		recall = 0
-		f_measure = 0
-	else:
-		precision = 1.0 * value['TP'] / (value['TP'] + value['FP'])
-		recall = 1.0 * value['TP'] / (value['TP'] + value['FN'])
-		f_measure = 2.0 * (precision * recall)/(precision + recall)
-
-	print key+':\tPrecision-'+str("{0:.4f}".format(precision))+'\tRecall-'+str("{0:.4f}".format(recall))+'\tF-measure-'+str("{0:.4f}".format(f_measure))
-
 def init_dict(dictOfdict):
 	for e in entities:
 		if not (e in dictOfdict):
@@ -123,6 +107,20 @@ def calc_diff_by_entity(nonauto_tag_set,auto_tag_set):
 					diff_matrix[entity]['FP'] += value
 
 	return diff_matrix
+
+process_files_in_dir('tagged_data')
+confusion_matrix = calc_diff_by_entity(nonauto_tag_set,auto_tag_set)
+for key, value in confusion_matrix.iteritems():
+	if value['TP'] == 0:
+		precision = 0
+		recall = 0
+		f_measure = 0
+	else:
+		precision = 1.0 * value['TP'] / (value['TP'] + value['FP'])
+		recall = 1.0 * value['TP'] / (value['TP'] + value['FN'])
+		f_measure = 2.0 * (precision * recall)/(precision + recall)
+
+	print key+':\tPrecision-'+str("{0:.4f}".format(precision))+'\tRecall-'+str("{0:.4f}".format(recall))+'\tF-measure-'+str("{0:.4f}".format(f_measure))
 
 
 

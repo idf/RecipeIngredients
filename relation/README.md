@@ -3,6 +3,22 @@ This model is to identify the relationship among entities.
 
 After NER system tagged the entity name on the scripts, the relation between the entities could be extracted. For this recipe case, the amount of entities could be extracted from the tagged script.
 
+This model contains three modules:
+* ann_to_xml.py : Convert .ann file and responding text file into xml document
+* info_extraction.py : Extract relation and entities sets from xml document.
+* relation_evaluate.py : Evaluate the relation extractor.
+ 
+There are three data folders:
+* non-auto/ : Non-auto transcript tagged by human using brat
+* ner-tagged/ : Non-auto tagged by NER system
+* auto/ : Auto transcript tagged by NER system
+
+##Usage
+To generate evaluation result 
+```
+$ python relation_evaluate.py [data folder name]
+```
+
 ##Method
 Regular expression is used to extract the amount relation. There are several rules to find a relation: 
 ###Rules

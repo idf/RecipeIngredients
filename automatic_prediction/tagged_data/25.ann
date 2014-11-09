@@ -1,0 +1,51 @@
+T1	Recipe 203 221	watermelon cookies
+T2	Amount 476 477	½
+T3	Unit 478 481	cup
+T4	Ingredient 494 509	unsalted butter
+T5	Amount 515 518	1/3
+T6	Unit 519 522	cup
+T7	Ingredient 526 542	granulated sugar
+R1	Measure Arg1:T3 Arg2:T4	
+R2	Quantify Arg1:T2 Arg2:T4	
+R3	Measure Arg1:T6 Arg2:T7	
+R4	Quantify Arg1:T5 Arg2:T7	
+T8	Amount 595 596	1
+T9	Ingredient 597 605	egg yolk
+R5	Quantify Arg1:T8 Arg2:T9	
+T10	Ingredient 620 629	egg white
+T11	Amount 664 665	½
+T12	Unit 666 674	teaspoon
+T13	Ingredient 678 698	pure vanilla extract
+T14	Amount 703 704	a
+T15	Unit 714 719	pinch
+T16	Ingredient 723 727	salt
+R6	Measure Arg1:T15 Arg2:T16	
+R7	Quantify Arg1:T14 Arg2:T16	
+R8	Measure Arg1:T12 Arg2:T13	
+R9	Quantify Arg1:T11 Arg2:T13	
+T17	Amount 775 782	1 and ¼
+T18	Unit 783 787	cups
+T19	Ingredient 791 808	all-purpose flour
+R10	Measure Arg1:T18 Arg2:T19	
+R11	Quantify Arg1:T17 Arg2:T19	
+T20	Ingredient 1357 1363	matcha
+T21	Ingredient 1365 1390	Japanese green tea powder
+T22	Ingredient 1396 1412	green food color
+T23	Ingredient 2382 2391	egg white
+T24	Amount 2378 2381	one
+R12	Quantify Arg1:T24 Arg2:T23	
+T25	Ingredient 2611 2637	toasted black sesame seeds
+T26	Ingredient 2722 2734	sesame seeds
+T27	Ingredient 2740 2760	mini chocolate chips
+T28	Recipe 3046 3064	Watermelon cookies
+T29	Ingredient 2247 2252	sugar
+T30	Ingredient 2683 2695	sesame seeds
+T31	Ingredient 916 930	red food color
+T32	Amount 911 915	some
+T33	Amount 2144 2145	a
+T34	Unit 2153 2156	bit
+T35	Ingredient 2160 2176	green food color
+R13	Quantify Arg1:T33 Arg2:T35	
+R14	Measure Arg1:T34 Arg2:T35	
+R15	Quantify Arg1:T32 Arg2:T31	
+T36	Ingredient 2669 2678	green tea

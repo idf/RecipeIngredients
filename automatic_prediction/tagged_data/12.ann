@@ -1,0 +1,135 @@
+T1	Recipe 307 345	chocolate peanut butter protein crisps
+T2	Ingredient 494 503	chocolate
+T3	Ingredient 508 521	peanut butter
+T4	Recipe 576 616	chocolate, peanut butter, protein crisps
+T5	Amount 621 626	three
+T6	Unit 627 631	cups
+T7	Ingredient 637 654	crispy brown rice
+R1	Measure Arg1:T6 Arg2:T7	
+R2	Quantify Arg1:T5 Arg2:T7	
+T8	Amount 666 667	1
+T9	Unit 668 671	cup
+T10	Ingredient 675 685	whole oats
+R3	Measure Arg1:T9 Arg2:T10	
+R4	Quantify Arg1:T8 Arg2:T10	
+T11	Amount 687 688	a
+T12	Unit 689 694	scoop
+T13	Ingredient 700 727	vanilla whey protein powder
+R5	Measure Arg1:T12 Arg2:T13	
+R6	Quantify Arg1:T11 Arg2:T13	
+T14	Ingredient 752 759	almonds
+T15	Amount 739 743	some
+R7	Quantify Arg1:T15 Arg2:T14	
+T16	Ingredient 766 779	peanut butter
+T17	Amount 761 765	some
+R8	Quantify Arg1:T17 Arg2:T16	
+T18	Ingredient 813 824	brown sugar
+T19	Ingredient 797 802	cocoa
+T20	Ingredient 864 869	honey
+T21	Amount 792 796	some
+R9	Quantify Arg1:T21 Arg2:T19	
+T22	Amount 808 812	some
+R11	Quantify Arg1:T22 Arg2:T18	
+T23	Ingredient 961 978	crispy brown rice
+T24	Ingredient 1048 1065	crispy brown rice
+T25	Unit 949 953	cups
+T26	Amount 947 948	3
+R10	Measure Arg1:T25 Arg2:T23	
+R12	Quantify Arg1:T26 Arg2:T23	
+T27	Ingredient 1523 1533	whole oats
+T28	Ingredient 1610 1617	almonds
+T29	Amount 1591 1594	1/4
+T30	Unit 1595 1598	cup
+R13	Measure Arg1:T30 Arg2:T28	
+R14	Quantify Arg1:T29 Arg2:T28	
+T32	Ingredient 1697 1704	almonds
+T34	Amount 1726 1729	1/4
+T35	Unit 1735 1738	cup
+R15	Quantify Arg1:T34 Arg2:T32	
+R16	Measure Arg1:T35 Arg2:T32	
+T33	Ingredient 1893 1920	vanilla whey protein powder
+T36	Unit 1884 1889	scoop
+R17	Measure Arg1:T36 Arg2:T33	
+T37	Amount 1882 1883	1
+T39	Ingredient 2045 2059	protein powder
+T38	Ingredient 3055 3068	peanut butter
+R18	Quantify Arg1:T37 Arg2:T33	
+T41	Amount 3017 3020	3/4
+T42	Unit 3026 3029	cup
+R19	Measure Arg1:T42 Arg2:T38	
+R20	Quantify Arg1:T41 Arg2:T38	
+T43	Ingredient 4102 4115	almond butter
+T44	Ingredient 4159 4172	almond butter
+T40	Ingredient 4342 4358	coconut extracts
+T45	Ingredient 2415 2444	unsalted creamy peanut butter
+T46	Ingredient 4484 4490	banana
+T47	Ingredient 4412 4418	banana
+T48	Ingredient 4397 4410	peanut butter
+T49	Ingredient 4386 4395	chocolate
+T50	Amount 3226 3229	3/4
+T51	Ingredient 4630 4643	dried bananas
+T53	Amount 4857 4860	1/2
+T54	Ingredient 4828 4833	honey
+T55	Unit 4861 4864	cup
+T56	Ingredient 4868 4873	honey
+R21	Measure Arg1:T55 Arg2:T56	
+R22	Quantify Arg1:T53 Arg2:T56	
+T52	Amount 4899 4902	1/4
+T57	Ingredient 5001 5006	honey
+T58	Unit 4903 4918	measuring scoop
+R23	Quantify Arg1:T52 Arg2:T56	
+R24	Measure Arg1:T58 Arg2:T56	
+T60	Amount 5675 5678	1/2
+T61	Unit 5679 5682	cup
+T64	Ingredient 5725 5732	Xylitol
+T62	Ingredient 6700 6707	vanilla
+T63	Unit 6688 6696	teaspoon
+T65	Amount 6686 6687	a
+R26	Measure Arg1:T63 Arg2:T62	
+R27	Quantify Arg1:T65 Arg2:T62	
+T66	Ingredient 6741 6750	chocolate
+T67	Ingredient 6892 6906	dark chocolate
+T68	Ingredient 6908 6927	Hershey's chocolate
+T69	Ingredient 7116 7130	dark chocolate
+T70	Ingredient 6165 6176	brown sugar
+T72	Ingredient 7762 7767	cocoa
+T71	Recipe 10774 10813	chocolate, peanut butter, protein crisp
+T73	Ingredient 6298 6313	organic sucanat
+T74	Ingredient 6661 6668	vanilla
+T75	Unit 6827 6838	tablespoons
+T76	Unit 6864 6875	tablespoons
+T77	Amount 6818 6826	a couple
+R28	Measure Arg1:T75 Arg2:T66	
+R29	Quantify Arg1:T77 Arg2:T66	
+T78	Amount 6855 6860	a lot
+R30	Quantify Arg1:T78 Arg2:T66	
+R31	Measure Arg1:T76 Arg2:T66	
+T79	Ingredient 6982 6987	cacao
+T80	Ingredient 7159 7185	unsweetened dark chocolate
+T81	Ingredient 8010 8019	chocolate
+T82	Ingredient 8336 8345	chocolate
+T83	Ingredient 8350 8363	peanut butter
+T84	Ingredient 8902 8916	protein powder
+T85	Unit 1516 1519	cup
+R32	Measure Arg1:T85 Arg2:T27	
+T31	Unit 3192 3205	measuring cup
+R33	Measure Arg1:T31 Arg2:T38	
+R34	Quantify Arg1:T50 Arg2:T38	
+T87	Ingredient 3893 3904	crispy rice
+T86	Amount 4279 4280	a
+T88	Unit 4288 4291	bit
+T89	Ingredient 4295 4301	orange
+R35	Quantify Arg1:T86 Arg2:T89	
+R36	Measure Arg1:T88 Arg2:T89	
+T90	Ingredient 4259 4268	chocolate
+T91	Ingredient 4371 4378	bananas
+T92	Ingredient 4770 4783	natural sugar
+T93	Amount 4761 4762	a
+T94	Unit 4763 4766	bit
+R37	Quantify Arg1:T93 Arg2:T92	
+R38	Measure Arg1:T94 Arg2:T92	
+T59	Ingredient 5072 5077	honey
+T95	Ingredient 5085 5090	agave
+T96	Ingredient 5098 5103	agave
+T98	Ingredient 5359 5364	agave
+T99	Ingredient 5138 5143	honey
