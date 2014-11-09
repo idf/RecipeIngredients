@@ -16,6 +16,8 @@ The whole system is powered by NLTK, Stanford NLP SDK and Brat.
 * [NLTK 3.0](http://www.nltk.org/)
 * [Stanford Named Entity Recognizer (NER)](http://nlp.stanford.edu/software/CRF-NER.shtml)
 * [BRAT](http://brat.nlplab.org/index.html)
+####Line encoding
+Unix `\n`
 
 ###BRAT
 Some changes are directly made to the BRAT source code compared to the [original code](https://github.com/nlplab/brat)
