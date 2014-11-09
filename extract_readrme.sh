@@ -8,8 +8,8 @@ relation=$(cat relation/README.md)
 
 rm report.md
 echo "${root}" >> report.md
-echo "${brat}"  >> report.md
 echo "${cleaning}" >> report.md
+echo "${brat}"  >> report.md
 echo "${kappa}" >> report.md
 echo "${ner}" >> report.md
 echo "${auto_pre}" >> report.md

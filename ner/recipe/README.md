@@ -1,3 +1,6 @@
+#Named Entity Recognition Model
+---
+
 ###Run Cross Validation
 ```bash
 python cross_validation.py

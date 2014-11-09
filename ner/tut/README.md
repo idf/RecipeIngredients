@@ -1,4 +1,6 @@
 #Stanford NER
+---
+
 The Stanford Natural Language Processing Group [official link](http://nlp.stanford.edu/software/CRF-NER.shtml)
 ###Training
 java -cp ../lib/ner/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop austen.prop

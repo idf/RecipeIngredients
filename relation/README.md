@@ -1,4 +1,6 @@
-#Entity Relationship Model 
+#Entity Relationship Identification Model
+---
+
 This model is to identify the relationship among entities. 
 
 After NER system tagged the entity name on the scripts, the relation between the entities could be extracted. For this recipe case, the amount of entities could be extracted from the tagged script.
