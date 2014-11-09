@@ -13,15 +13,15 @@ There are three data folders:
 * ner-tagged/ : Non-auto tagged by NER system
 * auto/ : Auto transcript tagged by NER system
 
-##Usage
+###Usage
 To generate evaluation result 
 ```
 $ python relation_evaluate.py [data folder name]
 ```
 
-##Method
+###Method
 Regular expression is used to extract the amount relation. There are several rules to find a relation: 
-###Rules
+####Rules
 ```
 <amount><ingredient>
 <amount>[some description words without tag ]<ingredient>
@@ -32,7 +32,7 @@ Regular expression is used to extract the amount relation. There are several rul
 <amount>[some other ingredient]<ingredient>
 <amount><unit>[some other ingredient ]<ingredient>
 ```
-###Coded Rules 
+####Coded Rules
 ```
 <Amount>(?P<amount>[^<]+)</Amount>[^<]{0,70}(<Ingredient>[^<]+</Ingredient>)*<Ingredient>(?P<ingredient>[^<]+)</Ingredient>
 
