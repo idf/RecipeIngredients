@@ -148,5 +148,5 @@ def get_relation_set(file_path):
 
 if __name__ == '__main__':
 	current_directory = os.path.dirname(os.path.realpath(__file__))
-	# format_directory(current_directory)
-	get_relation_set(os.path.join(current_directory,"non-auto","1.ann"))
+	format_directory(current_directory)
+	# get_relation_set(os.path.join(current_directory,"non-auto","1.ann"))
