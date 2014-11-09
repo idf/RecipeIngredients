@@ -7,6 +7,11 @@ This model contains three modules:
 * ann_to_xml.py : Convert .ann file and responding text file into xml document
 * info_extraction.py : Extract relation and entities sets from xml document.
 * relation_evaluate.py : Evaluate the relation extractor.
+ 
+There are three data folders:
+* non-auto/ : Non-auto transcript tagged by human using brat
+* ner-tagged/ : Non-auto tagged by NER system
+* auto/ : Auto transcript tagged by NER system
 
 ##Usage
 To generate evaluation result 
