@@ -34,3 +34,6 @@ git clone https://github.com/zhangdanyangg/RecipeIngredients.git
 
 ###License##
 This project is released under MIT License.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/zhangdanyangg/recipeingredients/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
