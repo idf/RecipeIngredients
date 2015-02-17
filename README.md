@@ -1,6 +1,7 @@
 #Recipe Ingredients
 ---
-Repository: [https://github.com/zhangdanyangg/RecipeIngredients](https://github.com/zhangdanyangg/RecipeIngredients)
+Report: http://git.io/NF6n  
+Repository: https://github.com/zhangdanyangg/RecipeIngredients
 
 ##Description
 
