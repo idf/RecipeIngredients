@@ -1,7 +1,7 @@
 #Recipe Ingredients
 ---
-Report: http://git.io/NF6n  
-Repository: https://github.com/zhangdanyangg/RecipeIngredients
+Report: http://git.io/p9Tl  
+Repository: https://github.com/idf/RecipeIngredients
 
 ##Description
 
@@ -30,7 +30,7 @@ Please install the Brat first, then use the code inside *Brat* folder to overrid
 Clone the repo
 
 ```bash
-git clone https://github.com/zhangdanyangg/RecipeIngredients.git
+git clone https://github.com/idf/RecipeIngredients.git
 ```
 
 ###License##
